@@ -31,19 +31,19 @@ def apply_mutation(
     total = sum(mutation_type.values())
     mutation_probabilities = [value / total for value in mutation_type.values()]
 
-    for i in range(0, len(offspring)):
+    for index, individual in enumerate(offspring):
 
         if random.randint(0, 100) < chance_of_mutation:
             mutation = np.random.choice(list(mutation_type.keys()), size=1, p=mutation_probabilities)[0]
 
             if mutation == MutationType.SWAP:
-                offspring[i] = swap_mutation(offspring[i])
+                offspring[index] = swap_mutation(individual)
             elif mutation == MutationType.INVERSION:
-                offspring[i] = inversion_mutation(offspring[i])
+                offspring[index] = inversion_mutation(individual)
             elif mutation == MutationType.SCRAMBLE:
-                offspring[i] = scramble_mutation(offspring[i])
+                offspring[index] = scramble_mutation(individual)
 
-        offspring[i].distance = calculate_total_distance(offspring[i].path, distance_matrix)
-        offspring[i].fitness = calculate_fitness(offspring[i].distance)
+        offspring[index].distance = calculate_total_distance(offspring[index].path, distance_matrix)
+        offspring[index].fitness = calculate_fitness(offspring[index].distance)
 
     return offspring

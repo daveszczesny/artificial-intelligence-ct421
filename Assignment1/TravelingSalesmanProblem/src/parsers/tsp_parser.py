@@ -14,13 +14,13 @@ def load_tsp_file(file_path: str) -> Dict[str, Any]:
     :param file_path: str
     :return: Dict[str, Any], containing the problem name, dimensions and cities
     """
-    if (not os.path.exists(file_path)):
+    if not os.path.exists(file_path):
         raise FileNotFoundError(f"File {file_path} not found")
 
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    
-    if (not lines):
+
+    if not lines:
         raise ValueError("No data in file")
 
     """

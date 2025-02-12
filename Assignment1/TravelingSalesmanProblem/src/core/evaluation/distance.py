@@ -1,8 +1,8 @@
-import numpy as np
-
 from typing import List, Tuple, Callable
 
-from core.models.population import Individual, Population
+import numpy as np
+
+from core.models.population import Population
 
 def euclidean(
         point1: Tuple[np.float64, np.float64],

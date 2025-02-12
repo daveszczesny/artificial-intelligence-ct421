@@ -16,7 +16,8 @@ def swap_mutation(
     chromosome_length = len(individual.path)
     mutation_points = np.random.choice(chromosome_length, 2, replace=False)
 
-    individual.path[mutation_points[0]], individual.path[mutation_points[1]] = individual.path[mutation_points[1]], individual.path[mutation_points[0]]
+    individual.path[mutation_points[0]], individual.path[mutation_points[1]] = \
+        individual.path[mutation_points[1]], individual.path[mutation_points[0]]
     return individual
 
 

@@ -1,0 +1,3425 @@
+{
+    "highlights": [
+        {
+            "generation": 2,
+            "best_fitness": 6.96075625490909e-06,
+            "best_distance": 143662.55093255817,
+            "average_distance": 164088.58284705132
+        },
+        {
+            "generation": 3,
+            "best_fitness": 7.000958141444854e-06,
+            "best_distance": 142837.59162622568,
+            "average_distance": 160002.30943808338
+        },
+        {
+            "generation": 5,
+            "best_fitness": 7.055900431756004e-06,
+            "best_distance": 141725.35591621575,
+            "average_distance": 156031.56292359813
+        },
+        {
+            "generation": 6,
+            "best_fitness": 7.345132128122998e-06,
+            "best_distance": 136144.58971693728,
+            "average_distance": 153657.5686778657
+        },
+        {
+            "generation": 7,
+            "best_fitness": 7.37482053711623e-06,
+            "best_distance": 135596.51993796573,
+            "average_distance": 152130.38018443927
+        },
+        {
+            "generation": 8,
+            "best_fitness": 7.484659676980667e-06,
+            "best_distance": 133606.60913889445,
+            "average_distance": 149653.9346965151
+        },
+        {
+            "generation": 9,
+            "best_fitness": 7.514663594992744e-06,
+            "best_distance": 133073.1558850261,
+            "average_distance": 148013.59559818936
+        },
+        {
+            "generation": 11,
+            "best_fitness": 7.6108179433751335e-06,
+            "best_distance": 131391.9223190004,
+            "average_distance": 145403.3081113715
+        },
+        {
+            "generation": 13,
+            "best_fitness": 7.740506582091417e-06,
+            "best_distance": 129190.51090449546,
+            "average_distance": 140891.33410927025
+        },
+        {
+            "generation": 14,
+            "best_fitness": 7.779867761636235e-06,
+            "best_distance": 128536.88913983334,
+            "average_distance": 139696.33836152733
+        },
+        {
+            "generation": 15,
+            "best_fitness": 7.843682383872511e-06,
+            "best_distance": 127491.13886305646,
+            "average_distance": 138404.3240727151
+        },
+        {
+            "generation": 16,
+            "best_fitness": 8.009207382701661e-06,
+            "best_distance": 124856.30003286051,
+            "average_distance": 136084.45063042408
+        },
+        {
+            "generation": 17,
+            "best_fitness": 8.037687832826565e-06,
+            "best_distance": 124413.88876984242,
+            "average_distance": 134551.89670493317
+        },
+        {
+            "generation": 19,
+            "best_fitness": 8.047873649521113e-06,
+            "best_distance": 124256.42393870148,
+            "average_distance": 132156.1444629592
+        },
+        {
+            "generation": 20,
+            "best_fitness": 8.29441109177975e-06,
+            "best_distance": 120563.11038056202,
+            "average_distance": 131234.40771730553
+        },
+        {
+            "generation": 23,
+            "best_fitness": 8.404932118028331e-06,
+            "best_distance": 118977.76043366603,
+            "average_distance": 128069.67384391397
+        },
+        {
+            "generation": 26,
+            "best_fitness": 8.414662565448418e-06,
+            "best_distance": 118840.17834608321,
+            "average_distance": 125930.72065744882
+        },
+        {
+            "generation": 28,
+            "best_fitness": 8.661026097873934e-06,
+            "best_distance": 115459.76062183615,
+            "average_distance": 124322.92496751965
+        },
+        {
+            "generation": 29,
+            "best_fitness": 8.750202605673094e-06,
+            "best_distance": 114283.06806880806,
+            "average_distance": 123438.8278965864
+        },
+        {
+            "generation": 31,
+            "best_fitness": 8.92619254971482e-06,
+            "best_distance": 112029.84860907448,
+            "average_distance": 121838.45497475493
+        },
+        {
+            "generation": 33,
+            "best_fitness": 9.085812081797792e-06,
+            "best_distance": 110061.70840836188,
+            "average_distance": 121807.6023050875
+        },
+        {
+            "generation": 38,
+            "best_fitness": 9.204031949058782e-06,
+            "best_distance": 108648.03659251328,
+            "average_distance": 119330.0011385001
+        },
+        {
+            "generation": 39,
+            "best_fitness": 9.423713890955209e-06,
+            "best_distance": 106115.27594866717,
+            "average_distance": 118351.48973655957
+        },
+        {
+            "generation": 42,
+            "best_fitness": 9.610280038186235e-06,
+            "best_distance": 104055.24043279927,
+            "average_distance": 115826.01780831575
+        },
+        {
+            "generation": 44,
+            "best_fitness": 9.695035010264617e-06,
+            "best_distance": 103145.57904548568,
+            "average_distance": 113222.82662731613
+        },
+        {
+            "generation": 49,
+            "best_fitness": 9.751939065401708e-06,
+            "best_distance": 102543.70882482614,
+            "average_distance": 110594.62500536423
+        },
+        {
+            "generation": 50,
+            "best_fitness": 1.0032203446980394e-05,
+            "best_distance": 99678.99926321683,
+            "average_distance": 108632.34185966534
+        },
+        {
+            "generation": 51,
+            "best_fitness": 1.0089389764351761e-05,
+            "best_distance": 99114.02209212299,
+            "average_distance": 108526.60920705278
+        },
+        {
+            "generation": 55,
+            "best_fitness": 1.0165732218684656e-05,
+            "best_distance": 98369.697183445,
+            "average_distance": 106176.78154807173
+        },
+        {
+            "generation": 61,
+            "best_fitness": 1.0253563482568189e-05,
+            "best_distance": 97527.0696573024,
+            "average_distance": 103272.65117142272
+        },
+        {
+            "generation": 65,
+            "best_fitness": 1.0306411333968366e-05,
+            "best_distance": 97026.98326275335,
+            "average_distance": 102684.15986218634
+        },
+        {
+            "generation": 66,
+            "best_fitness": 1.032492667763495e-05,
+            "best_distance": 96852.98803778645,
+            "average_distance": 102118.24802509735
+        },
+        {
+            "generation": 67,
+            "best_fitness": 1.0358045664059215e-05,
+            "best_distance": 96543.30869285914,
+            "average_distance": 101438.43216514005
+        },
+        {
+            "generation": 68,
+            "best_fitness": 1.0399178113515448e-05,
+            "best_distance": 96161.44555696522,
+            "average_distance": 101118.7797694292
+        },
+        {
+            "generation": 69,
+            "best_fitness": 1.0655521511156783e-05,
+            "best_distance": 93848.05792498824,
+            "average_distance": 100269.31538598517
+        },
+        {
+            "generation": 70,
+            "best_fitness": 1.0835756525241055e-05,
+            "best_distance": 92287.04960937222,
+            "average_distance": 100699.3343065252
+        },
+        {
+            "generation": 76,
+            "best_fitness": 1.0976968340410211e-05,
+            "best_distance": 91099.83457988454,
+            "average_distance": 97035.77004723251
+        },
+        {
+            "generation": 77,
+            "best_fitness": 1.121449774201717e-05,
+            "best_distance": 89170.28858575778,
+            "average_distance": 96262.43223808041
+        },
+        {
+            "generation": 81,
+            "best_fitness": 1.1221470533851872e-05,
+            "best_distance": 89114.87999574517,
+            "average_distance": 94692.37017422877
+        },
+        {
+            "generation": 82,
+            "best_fitness": 1.1291353935657757e-05,
+            "best_distance": 88563.33843561754,
+            "average_distance": 93212.4606770191
+        },
+        {
+            "generation": 83,
+            "best_fitness": 1.1302547456254677e-05,
+            "best_distance": 88475.62939862849,
+            "average_distance": 92336.14265989498
+        },
+        {
+            "generation": 84,
+            "best_fitness": 1.1422093277705389e-05,
+            "best_distance": 87549.62647274864,
+            "average_distance": 91947.8405869581
+        },
+        {
+            "generation": 85,
+            "best_fitness": 1.1427144042840976e-05,
+            "best_distance": 87510.92978708821,
+            "average_distance": 91613.83507059264
+        },
+        {
+            "generation": 86,
+            "best_fitness": 1.1534995462242327e-05,
+            "best_distance": 86692.70857308223,
+            "average_distance": 91176.8821917402
+        },
+        {
+            "generation": 88,
+            "best_fitness": 1.1600924577097552e-05,
+            "best_distance": 86200.0259853591,
+            "average_distance": 90451.74007946605
+        },
+        {
+            "generation": 89,
+            "best_fitness": 1.171169096656707e-05,
+            "best_distance": 85384.76662803543,
+            "average_distance": 90052.89403366979
+        },
+        {
+            "generation": 90,
+            "best_fitness": 1.1778447166592669e-05,
+            "best_distance": 84900.83504694153,
+            "average_distance": 89868.98735053999
+        },
+        {
+            "generation": 92,
+            "best_fitness": 1.1819442499705909e-05,
+            "best_distance": 84606.3593968059,
+            "average_distance": 89485.98446808377
+        },
+        {
+            "generation": 93,
+            "best_fitness": 1.19878554626426e-05,
+            "best_distance": 83417.75583767009,
+            "average_distance": 88762.44115649725
+        },
+        {
+            "generation": 94,
+            "best_fitness": 1.2005453799031919e-05,
+            "best_distance": 83295.47693404449,
+            "average_distance": 87839.14783072492
+        },
+        {
+            "generation": 95,
+            "best_fitness": 1.21278917962762e-05,
+            "best_distance": 82454.56150153354,
+            "average_distance": 87012.8664402208
+        },
+        {
+            "generation": 96,
+            "best_fitness": 1.2200106909029787e-05,
+            "best_distance": 81966.49483947226,
+            "average_distance": 86543.45911669702
+        },
+        {
+            "generation": 97,
+            "best_fitness": 1.2312453344151181e-05,
+            "best_distance": 81218.58187385804,
+            "average_distance": 85998.77338815434
+        },
+        {
+            "generation": 98,
+            "best_fitness": 1.235364622608198e-05,
+            "best_distance": 80947.76082293194,
+            "average_distance": 85251.88173391744
+        },
+        {
+            "generation": 99,
+            "best_fitness": 1.2561508337182495e-05,
+            "best_distance": 79608.2741942674,
+            "average_distance": 84567.69044389529
+        },
+        {
+            "generation": 100,
+            "best_fitness": 1.2727957105591113e-05,
+            "best_distance": 78567.2038100067,
+            "average_distance": 83418.75185321033
+        },
+        {
+            "generation": 101,
+            "best_fitness": 1.2750148110566465e-05,
+            "best_distance": 78430.46146038627,
+            "average_distance": 83130.1221713467
+        },
+        {
+            "generation": 102,
+            "best_fitness": 1.2820126953590365e-05,
+            "best_distance": 78002.34768501595,
+            "average_distance": 82935.90512785253
+        },
+        {
+            "generation": 103,
+            "best_fitness": 1.2889819016603294e-05,
+            "best_distance": 77580.60828564825,
+            "average_distance": 82444.52194159491
+        },
+        {
+            "generation": 104,
+            "best_fitness": 1.2935886194875748e-05,
+            "best_distance": 77304.32882102247,
+            "average_distance": 81063.40846406447
+        },
+        {
+            "generation": 106,
+            "best_fitness": 1.2937171744950492e-05,
+            "best_distance": 77296.6471895459,
+            "average_distance": 81493.71685022666
+        },
+        {
+            "generation": 107,
+            "best_fitness": 1.2952457203704303e-05,
+            "best_distance": 77205.42784067318,
+            "average_distance": 80504.39658272389
+        },
+        {
+            "generation": 108,
+            "best_fitness": 1.3016007569889408e-05,
+            "best_distance": 76828.47406399416,
+            "average_distance": 80287.67249695299
+        },
+        {
+            "generation": 110,
+            "best_fitness": 1.3037535125668452e-05,
+            "best_distance": 76701.61501856193,
+            "average_distance": 80115.82247496389
+        },
+        {
+            "generation": 111,
+            "best_fitness": 1.3057927235960678e-05,
+            "best_distance": 76581.83277710917,
+            "average_distance": 80129.33203090003
+        },
+        {
+            "generation": 112,
+            "best_fitness": 1.3132409720106074e-05,
+            "best_distance": 76147.48711875574,
+            "average_distance": 80206.40924376702
+        },
+        {
+            "generation": 114,
+            "best_fitness": 1.315147223845412e-05,
+            "best_distance": 76037.11446662676,
+            "average_distance": 79915.90474806905
+        },
+        {
+            "generation": 115,
+            "best_fitness": 1.3204880191070487e-05,
+            "best_distance": 75729.57766600777,
+            "average_distance": 78788.10298926842
+        },
+        {
+            "generation": 117,
+            "best_fitness": 1.3210111912976418e-05,
+            "best_distance": 75699.58578607427,
+            "average_distance": 78863.06357655025
+        },
+        {
+            "generation": 118,
+            "best_fitness": 1.3238569336373704e-05,
+            "best_distance": 75536.86313010006,
+            "average_distance": 78401.4604407825
+        },
+        {
+            "generation": 119,
+            "best_fitness": 1.3267171409850273e-05,
+            "best_distance": 75374.01674463521,
+            "average_distance": 77960.1810468036
+        },
+        {
+            "generation": 120,
+            "best_fitness": 1.3455208409584838e-05,
+            "best_distance": 74320.66227139585,
+            "average_distance": 78189.77964686451
+        },
+        {
+            "generation": 122,
+            "best_fitness": 1.3477037043199562e-05,
+            "best_distance": 74200.28577457939,
+            "average_distance": 77855.02132316762
+        },
+        {
+            "generation": 123,
+            "best_fitness": 1.3708202886276618e-05,
+            "best_distance": 72949.02244269432,
+            "average_distance": 77356.55000899876
+        },
+        {
+            "generation": 124,
+            "best_fitness": 1.3820763437091407e-05,
+            "best_distance": 72354.9031536315,
+            "average_distance": 77428.24717994525
+        },
+        {
+            "generation": 127,
+            "best_fitness": 1.3862774524562033e-05,
+            "best_distance": 72135.63188438232,
+            "average_distance": 75438.39803676891
+        },
+        {
+            "generation": 128,
+            "best_fitness": 1.3936896963425679e-05,
+            "best_distance": 71751.98343105213,
+            "average_distance": 74931.79040697057
+        },
+        {
+            "generation": 129,
+            "best_fitness": 1.401145807235118e-05,
+            "best_distance": 71370.15968190353,
+            "average_distance": 74856.80231631569
+        },
+        {
+            "generation": 132,
+            "best_fitness": 1.4168795684850719e-05,
+            "best_distance": 70577.62863142986,
+            "average_distance": 75482.06665925143
+        },
+        {
+            "generation": 133,
+            "best_fitness": 1.4318173690820343e-05,
+            "best_distance": 69841.30948496031,
+            "average_distance": 74585.21938897397
+        },
+        {
+            "generation": 134,
+            "best_fitness": 1.432039491041369e-05,
+            "best_distance": 69830.47648167908,
+            "average_distance": 74165.4247018499
+        },
+        {
+            "generation": 136,
+            "best_fitness": 1.4338848088412229e-05,
+            "best_distance": 69740.6091363879,
+            "average_distance": 73896.98936579832
+        },
+        {
+            "generation": 138,
+            "best_fitness": 1.4530736154178997e-05,
+            "best_distance": 68819.63786207783,
+            "average_distance": 72875.83407841407
+        },
+        {
+            "generation": 141,
+            "best_fitness": 1.4552268753635229e-05,
+            "best_distance": 68717.80730067915,
+            "average_distance": 72338.30873174826
+        },
+        {
+            "generation": 142,
+            "best_fitness": 1.455329593534965e-05,
+            "best_distance": 68712.9571502096,
+            "average_distance": 72284.72828520957
+        },
+        {
+            "generation": 143,
+            "best_fitness": 1.456091833626136e-05,
+            "best_distance": 68676.98704893352,
+            "average_distance": 73080.69069242386
+        },
+        {
+            "generation": 144,
+            "best_fitness": 1.4813883792094305e-05,
+            "best_distance": 67504.24223886973,
+            "average_distance": 72270.62197225071
+        },
+        {
+            "generation": 148,
+            "best_fitness": 1.4917460007075039e-05,
+            "best_distance": 67035.54087128244,
+            "average_distance": 72689.3246720784
+        },
+        {
+            "generation": 153,
+            "best_fitness": 1.5041043358402256e-05,
+            "best_distance": 66484.74950651466,
+            "average_distance": 72321.95024443003
+        },
+        {
+            "generation": 155,
+            "best_fitness": 1.5336460522690007e-05,
+            "best_distance": 65204.09311656485,
+            "average_distance": 71480.85518138655
+        },
+        {
+            "generation": 157,
+            "best_fitness": 1.5347760973071463e-05,
+            "best_distance": 65156.083793235906,
+            "average_distance": 70877.03438539642
+        },
+        {
+            "generation": 160,
+            "best_fitness": 1.5436953714789762e-05,
+            "best_distance": 64779.620284922195,
+            "average_distance": 70271.94451357819
+        },
+        {
+            "generation": 162,
+            "best_fitness": 1.556928820497431e-05,
+            "best_distance": 64229.01206752053,
+            "average_distance": 70852.35296256971
+        },
+        {
+            "generation": 164,
+            "best_fitness": 1.5644198336577486e-05,
+            "best_distance": 63921.46011482823,
+            "average_distance": 69440.72212145812
+        },
+        {
+            "generation": 170,
+            "best_fitness": 1.573290682037195e-05,
+            "best_distance": 63561.0451023035,
+            "average_distance": 66934.05719592204
+        },
+        {
+            "generation": 171,
+            "best_fitness": 1.5947565872124195e-05,
+            "best_distance": 62705.49424398153,
+            "average_distance": 67301.1707264705
+        },
+        {
+            "generation": 176,
+            "best_fitness": 1.5986279792715153e-05,
+            "best_distance": 62553.64055717915,
+            "average_distance": 65532.96880764922
+        },
+        {
+            "generation": 177,
+            "best_fitness": 1.611369367120759e-05,
+            "best_distance": 62059.01765321682,
+            "average_distance": 65889.000082048
+        },
+        {
+            "generation": 179,
+            "best_fitness": 1.6234516190864057e-05,
+            "best_distance": 61597.154374255275,
+            "average_distance": 64236.401085733894
+        },
+        {
+            "generation": 180,
+            "best_fitness": 1.6276990610773608e-05,
+            "best_distance": 61436.41806478085,
+            "average_distance": 64678.793286269494
+        },
+        {
+            "generation": 181,
+            "best_fitness": 1.631018220459078e-05,
+            "best_distance": 61311.393548904256,
+            "average_distance": 64418.72735875119
+        },
+        {
+            "generation": 182,
+            "best_fitness": 1.6323876592162433e-05,
+            "best_distance": 61259.9583410309,
+            "average_distance": 63976.713766446264
+        },
+        {
+            "generation": 184,
+            "best_fitness": 1.6417740848954475e-05,
+            "best_distance": 60909.72011314715,
+            "average_distance": 63807.46516780362
+        },
+        {
+            "generation": 185,
+            "best_fitness": 1.654532043317881e-05,
+            "best_distance": 60440.05034769053,
+            "average_distance": 63402.67583532997
+        },
+        {
+            "generation": 187,
+            "best_fitness": 1.6689624997405283e-05,
+            "best_distance": 59917.46370307714,
+            "average_distance": 63166.80026032405
+        },
+        {
+            "generation": 190,
+            "best_fitness": 1.6716645903096887e-05,
+            "best_distance": 59820.61268730603,
+            "average_distance": 62416.53211489366
+        },
+        {
+            "generation": 191,
+            "best_fitness": 1.6777738105725075e-05,
+            "best_distance": 59602.78994096169,
+            "average_distance": 62332.189113992456
+        },
+        {
+            "generation": 192,
+            "best_fitness": 1.678080610285521e-05,
+            "best_distance": 59591.892896602425,
+            "average_distance": 62184.89201751898
+        },
+        {
+            "generation": 193,
+            "best_fitness": 1.70084337308053e-05,
+            "best_distance": 58794.361422523114,
+            "average_distance": 62108.9205682907
+        },
+        {
+            "generation": 196,
+            "best_fitness": 1.7018274624171662e-05,
+            "best_distance": 58760.36332024308,
+            "average_distance": 62387.63134619051
+        },
+        {
+            "generation": 198,
+            "best_fitness": 1.7149826784215585e-05,
+            "best_distance": 58309.62683077261,
+            "average_distance": 62162.53089992205
+        },
+        {
+            "generation": 200,
+            "best_fitness": 1.716270956543335e-05,
+            "best_distance": 58265.85809119881,
+            "average_distance": 62365.765666006235
+        },
+        {
+            "generation": 201,
+            "best_fitness": 1.7263520921982288e-05,
+            "best_distance": 57925.61114961563,
+            "average_distance": 62753.09350977776
+        },
+        {
+            "generation": 202,
+            "best_fitness": 1.7291961800144717e-05,
+            "best_distance": 57830.33825529449,
+            "average_distance": 62962.83960800486
+        },
+        {
+            "generation": 207,
+            "best_fitness": 1.7413182030917972e-05,
+            "best_distance": 57427.75778857937,
+            "average_distance": 60843.5188211152
+        },
+        {
+            "generation": 211,
+            "best_fitness": 1.7426463662991538e-05,
+            "best_distance": 57383.98904900557,
+            "average_distance": 60858.001739492465
+        },
+        {
+            "generation": 212,
+            "best_fitness": 1.749960231408877e-05,
+            "best_distance": 57144.15573860836,
+            "average_distance": 60128.36788068744
+        },
+        {
+            "generation": 214,
+            "best_fitness": 1.7539459727221893e-05,
+            "best_distance": 57014.29893236465,
+            "average_distance": 61083.39044742023
+        },
+        {
+            "generation": 215,
+            "best_fitness": 1.758145035654654e-05,
+            "best_distance": 56878.12892112425,
+            "average_distance": 61185.14102219107
+        },
+        {
+            "generation": 218,
+            "best_fitness": 1.760286630522021e-05,
+            "best_distance": 56808.93001518994,
+            "average_distance": 60494.25925711751
+        },
+        {
+            "generation": 221,
+            "best_fitness": 1.7678476114403344e-05,
+            "best_distance": 56565.9615415189,
+            "average_distance": 60618.77368432561
+        },
+        {
+            "generation": 223,
+            "best_fitness": 1.7685018770842964e-05,
+            "best_distance": 56545.034696185096,
+            "average_distance": 59264.37711040657
+        },
+        {
+            "generation": 224,
+            "best_fitness": 1.7701432785186658e-05,
+            "best_distance": 56492.602160252485,
+            "average_distance": 59129.55918185793
+        },
+        {
+            "generation": 225,
+            "best_fitness": 1.7852233074556675e-05,
+            "best_distance": 56015.40131274771,
+            "average_distance": 59312.83857707982
+        },
+        {
+            "generation": 226,
+            "best_fitness": 1.786771719453944e-05,
+            "best_distance": 55966.858503089046,
+            "average_distance": 59025.44741685773
+        },
+        {
+            "generation": 230,
+            "best_fitness": 1.7885002243264763e-05,
+            "best_distance": 55912.769056351994,
+            "average_distance": 59443.95238442661
+        },
+        {
+            "generation": 232,
+            "best_fitness": 1.789901366285387e-05,
+            "best_distance": 55869.00031677819,
+            "average_distance": 60881.349219775744
+        },
+        {
+            "generation": 235,
+            "best_fitness": 1.7992792037686847e-05,
+            "best_distance": 55577.81126494696,
+            "average_distance": 59580.64395078658
+        },
+        {
+            "generation": 236,
+            "best_fitness": 1.801277488062916e-05,
+            "best_distance": 55516.15487491572,
+            "average_distance": 59615.558208243274
+        },
+        {
+            "generation": 238,
+            "best_fitness": 1.803034186123059e-05,
+            "best_distance": 55462.065428178685,
+            "average_distance": 60030.398103255655
+        },
+        {
+            "generation": 239,
+            "best_fitness": 1.8053193436008464e-05,
+            "best_distance": 55391.86202954122,
+            "average_distance": 60215.740882981976
+        },
+        {
+            "generation": 244,
+            "best_fitness": 1.8060401752665905e-05,
+            "best_distance": 55369.75387894622,
+            "average_distance": 59457.918074716625
+        },
+        {
+            "generation": 245,
+            "best_fitness": 1.8158997075416034e-05,
+            "best_distance": 55069.120604343145,
+            "average_distance": 60113.74897288169
+        },
+        {
+            "generation": 251,
+            "best_fitness": 1.820611866463457e-05,
+            "best_distance": 54926.58915502415,
+            "average_distance": 58942.11955759037
+        },
+        {
+            "generation": 252,
+            "best_fitness": 1.8207701228618368e-05,
+            "best_distance": 54921.81508493929,
+            "average_distance": 58750.01457313014
+        },
+        {
+            "generation": 253,
+            "best_fitness": 1.8300805010185645e-05,
+            "best_distance": 54642.405044118655,
+            "average_distance": 58778.70700962044
+        },
+        {
+            "generation": 255,
+            "best_fitness": 1.8320699006324944e-05,
+            "best_distance": 54583.07020134795,
+            "average_distance": 58198.420423316944
+        },
+        {
+            "generation": 256,
+            "best_fitness": 1.8333675561720546e-05,
+            "best_distance": 54544.436364300636,
+            "average_distance": 57998.4775918506
+        },
+        {
+            "generation": 257,
+            "best_fitness": 1.8362234505174954e-05,
+            "best_distance": 54459.602926766565,
+            "average_distance": 57936.465629450504
+        },
+        {
+            "generation": 260,
+            "best_fitness": 1.8422850334398873e-05,
+            "best_distance": 54280.41708251925,
+            "average_distance": 57652.08199251113
+        },
+        {
+            "generation": 264,
+            "best_fitness": 1.8426619940500003e-05,
+            "best_distance": 54269.31272414712,
+            "average_distance": 57834.3876011561
+        },
+        {
+            "generation": 266,
+            "best_fitness": 1.8436316911893908e-05,
+            "best_distance": 54240.76862959897,
+            "average_distance": 58291.04168307212
+        },
+        {
+            "generation": 267,
+            "best_fitness": 1.8449014986115202e-05,
+            "best_distance": 54203.435833978336,
+            "average_distance": 58613.29885567322
+        },
+        {
+            "generation": 268,
+            "best_fitness": 1.8450380294398783e-05,
+            "best_distance": 54199.424838065956,
+            "average_distance": 58274.26657836205
+        },
+        {
+            "generation": 272,
+            "best_fitness": 1.8503822276584972e-05,
+            "best_distance": 54042.888277489335,
+            "average_distance": 56262.1738733613
+        },
+        {
+            "generation": 275,
+            "best_fitness": 1.850755486562739e-05,
+            "best_distance": 54031.988950481,
+            "average_distance": 58171.38311913797
+        },
+        {
+            "generation": 276,
+            "best_fitness": 1.8523935323706417e-05,
+            "best_distance": 53984.209214994815,
+            "average_distance": 57584.47382189999
+        },
+        {
+            "generation": 278,
+            "best_fitness": 1.852735979268531e-05,
+            "best_distance": 53974.23114732218,
+            "average_distance": 56651.403776910855
+        },
+        {
+            "generation": 279,
+            "best_fitness": 1.8542396177495533e-05,
+            "best_distance": 53930.462407748375,
+            "average_distance": 57202.662512437164
+        },
+        {
+            "generation": 280,
+            "best_fitness": 1.8599497952475822e-05,
+            "best_distance": 53764.89207155657,
+            "average_distance": 56849.33760542338
+        },
+        {
+            "generation": 283,
+            "best_fitness": 1.8627167989183206e-05,
+            "best_distance": 53685.026117802765,
+            "average_distance": 56275.30603423725
+        },
+        {
+            "generation": 285,
+            "best_fitness": 1.8630501011439702e-05,
+            "best_distance": 53675.42179278856,
+            "average_distance": 55812.72017348662
+        },
+        {
+            "generation": 286,
+            "best_fitness": 1.8633505144846328e-05,
+            "best_distance": 53666.76812690719,
+            "average_distance": 56503.358715712864
+        },
+        {
+            "generation": 287,
+            "best_fitness": 1.8642561780905248e-05,
+            "best_distance": 53640.696581960954,
+            "average_distance": 56216.57447304308
+        },
+        {
+            "generation": 289,
+            "best_fitness": 1.8687937577278797e-05,
+            "best_distance": 53510.45271126236,
+            "average_distance": 55522.27504614508
+        },
+        {
+            "generation": 291,
+            "best_fitness": 1.86897224984084e-05,
+            "best_distance": 53505.342312340865,
+            "average_distance": 54849.020526557375
+        },
+        {
+            "generation": 292,
+            "best_fitness": 1.8714908080264867e-05,
+            "best_distance": 53433.33751419885,
+            "average_distance": 54595.17274914227
+        },
+        {
+            "generation": 293,
+            "best_fitness": 1.8716908390919395e-05,
+            "best_distance": 53427.62699448565,
+            "average_distance": 55380.02019273532
+        },
+        {
+            "generation": 294,
+            "best_fitness": 1.8725874097359036e-05,
+            "best_distance": 53402.04653736473,
+            "average_distance": 55122.79806949054
+        },
+        {
+            "generation": 295,
+            "best_fitness": 1.8727215144926396e-05,
+            "best_distance": 53398.222440506404,
+            "average_distance": 55558.47154764645
+        },
+        {
+            "generation": 296,
+            "best_fitness": 1.8789886868755422e-05,
+            "best_distance": 53220.11819362469,
+            "average_distance": 55599.10992277873
+        },
+        {
+            "generation": 297,
+            "best_fitness": 1.912950828648328e-05,
+            "best_distance": 52275.258988574744,
+            "average_distance": 55595.022927696584
+        },
+        {
+            "generation": 300,
+            "best_fitness": 1.913217125727831e-05,
+            "best_distance": 52267.98289397381,
+            "average_distance": 56198.80394829082
+        },
+        {
+            "generation": 301,
+            "best_fitness": 1.9216251965947307e-05,
+            "best_distance": 52039.28433973897,
+            "average_distance": 55117.030843003704
+        },
+        {
+            "generation": 303,
+            "best_fitness": 1.9228083267153443e-05,
+            "best_distance": 52007.26386016123,
+            "average_distance": 54836.90226727673
+        },
+        {
+            "generation": 304,
+            "best_fitness": 1.9232427805693758e-05,
+            "best_distance": 51995.51560016516,
+            "average_distance": 54795.08277798377
+        },
+        {
+            "generation": 306,
+            "best_fitness": 1.9245658462136798e-05,
+            "best_distance": 51959.770665543256,
+            "average_distance": 54707.822728996485
+        },
+        {
+            "generation": 308,
+            "best_fitness": 1.9507640968228795e-05,
+            "best_distance": 51261.964561919835,
+            "average_distance": 54016.728211025205
+        },
+        {
+            "generation": 314,
+            "best_fitness": 1.953181178402241e-05,
+            "best_distance": 51198.527359250365,
+            "average_distance": 54604.76026470805
+        },
+        {
+            "generation": 315,
+            "best_fitness": 1.954852348018611e-05,
+            "best_distance": 51154.75861967656,
+            "average_distance": 55177.526327461615
+        },
+        {
+            "generation": 317,
+            "best_fitness": 1.9549984948054153e-05,
+            "best_distance": 51150.934522818236,
+            "average_distance": 53584.67760446284
+        },
+        {
+            "generation": 318,
+            "best_fitness": 1.9594183234762208e-05,
+            "best_distance": 51035.55417537851,
+            "average_distance": 53525.07854574593
+        },
+        {
+            "generation": 319,
+            "best_fitness": 1.9689836702483157e-05,
+            "best_distance": 50787.622828476095,
+            "average_distance": 54494.950894050584
+        },
+        {
+            "generation": 321,
+            "best_fitness": 1.9693836141707344e-05,
+            "best_distance": 50777.30883939942,
+            "average_distance": 53447.80782459739
+        },
+        {
+            "generation": 322,
+            "best_fitness": 1.9795827214138933e-05,
+            "best_distance": 50515.69652445552,
+            "average_distance": 53075.039462268825
+        },
+        {
+            "generation": 323,
+            "best_fitness": 1.983098328009754e-05,
+            "best_distance": 50426.143064908145,
+            "average_distance": 53171.23011089415
+        },
+        {
+            "generation": 325,
+            "best_fitness": 2.0001179968939837e-05,
+            "best_distance": 49997.05025168098,
+            "average_distance": 52896.92944722175
+        },
+        {
+            "generation": 328,
+            "best_fitness": 2.000754885499581e-05,
+            "best_distance": 49981.13498297437,
+            "average_distance": 52817.27891636878
+        },
+        {
+            "generation": 329,
+            "best_fitness": 2.013822716113683e-05,
+            "best_distance": 49656.804047270896,
+            "average_distance": 53142.537905281606
+        },
+        {
+            "generation": 334,
+            "best_fitness": 2.021236464844888e-05,
+            "best_distance": 49474.66649216331,
+            "average_distance": 52632.758228856364
+        },
+        {
+            "generation": 337,
+            "best_fitness": 2.0218037132846353e-05,
+            "best_distance": 49460.785605907986,
+            "average_distance": 52393.89664593578
+        },
+        {
+            "generation": 338,
+            "best_fitness": 2.0381080386558914e-05,
+            "best_distance": 49065.11240000252,
+            "average_distance": 52963.19831775334
+        },
+        {
+            "generation": 341,
+            "best_fitness": 2.0495581650591813e-05,
+            "best_distance": 48791.00369279468,
+            "average_distance": 51719.08795655822
+        },
+        {
+            "generation": 342,
+            "best_fitness": 2.0646851923177275e-05,
+            "best_distance": 48433.53377651935,
+            "average_distance": 51578.76256960767
+        },
+        {
+            "generation": 343,
+            "best_fitness": 2.0870260618245597e-05,
+            "best_distance": 47915.07007467654,
+            "average_distance": 51766.42303304209
+        },
+        {
+            "generation": 346,
+            "best_fitness": 2.090672463608017e-05,
+            "best_distance": 47831.500027231974,
+            "average_distance": 50550.94934976039
+        },
+        {
+            "generation": 349,
+            "best_fitness": 2.0908396248560673e-05,
+            "best_distance": 47827.67593037365,
+            "average_distance": 51137.84979185485
+        },
+        {
+            "generation": 350,
+            "best_fitness": 2.0913641402902593e-05,
+            "best_distance": 47815.6807193419,
+            "average_distance": 51404.49721102083
+        },
+        {
+            "generation": 351,
+            "best_fitness": 2.0914466192806676e-05,
+            "best_distance": 47813.79504411832,
+            "average_distance": 51170.08828389221
+        },
+        {
+            "generation": 354,
+            "best_fitness": 2.095025729898758e-05,
+            "best_distance": 47732.110671897324,
+            "average_distance": 50560.8596746001
+        },
+        {
+            "generation": 355,
+            "best_fitness": 2.1041255565868788e-05,
+            "best_distance": 47525.68100651318,
+            "average_distance": 50712.416786754744
+        },
+        {
+            "generation": 359,
+            "best_fitness": 2.104860012734915e-05,
+            "best_distance": 47509.09770482392,
+            "average_distance": 50674.06494321607
+        },
+        {
+            "generation": 360,
+            "best_fitness": 2.11550647284434e-05,
+            "best_distance": 47270.00426784232,
+            "average_distance": 50553.873773922685
+        },
+        {
+            "generation": 368,
+            "best_fitness": 2.1168354341053926e-05,
+            "best_distance": 47240.32789174353,
+            "average_distance": 49715.49108283032
+        },
+        {
+            "generation": 369,
+            "best_fitness": 2.126126129684837e-05,
+            "best_distance": 47033.898226359386,
+            "average_distance": 49550.030169905425
+        },
+        {
+            "generation": 370,
+            "best_fitness": 2.127552444222738e-05,
+            "best_distance": 47002.36662628223,
+            "average_distance": 49626.63456098437
+        },
+        {
+            "generation": 372,
+            "best_fitness": 2.1301206418953177e-05,
+            "best_distance": 46945.69783194204,
+            "average_distance": 49282.873100335746
+        },
+        {
+            "generation": 375,
+            "best_fitness": 2.1389871620710603e-05,
+            "best_distance": 46751.09873178278,
+            "average_distance": 49995.36153247816
+        },
+        {
+            "generation": 379,
+            "best_fitness": 2.141245400491705e-05,
+            "best_distance": 46701.793254073775,
+            "average_distance": 48655.667966511865
+        },
+        {
+            "generation": 381,
+            "best_fitness": 2.153165809469568e-05,
+            "best_distance": 46443.24164920443,
+            "average_distance": 49773.19131576535
+        },
+        {
+            "generation": 386,
+            "best_fitness": 2.154747604202771e-05,
+            "best_distance": 46409.14778369076,
+            "average_distance": 49826.69259197829
+        },
+        {
+            "generation": 387,
+            "best_fitness": 2.1639091874001402e-05,
+            "best_distance": 46212.660208789275,
+            "average_distance": 50744.242479091845
+        },
+        {
+            "generation": 388,
+            "best_fitness": 2.1649557781198507e-05,
+            "best_distance": 46190.31991814849,
+            "average_distance": 49848.62286401879
+        },
+        {
+            "generation": 390,
+            "best_fitness": 2.1697462639565047e-05,
+            "best_distance": 46088.33837448406,
+            "average_distance": 49307.65816814363
+        },
+        {
+            "generation": 394,
+            "best_fitness": 2.170928780317317e-05,
+            "best_distance": 46063.23381340191,
+            "average_distance": 48289.52862885967
+        },
+        {
+            "generation": 395,
+            "best_fitness": 2.1802177504809027e-05,
+            "best_distance": 45866.97818506543,
+            "average_distance": 48333.18030373044
+        },
+        {
+            "generation": 396,
+            "best_fitness": 2.1826411461804357e-05,
+            "best_distance": 45816.05188511971,
+            "average_distance": 48351.73076575118
+        },
+        {
+            "generation": 398,
+            "best_fitness": 2.1870520865862745e-05,
+            "best_distance": 45723.64810757113,
+            "average_distance": 48468.01274665997
+        },
+        {
+            "generation": 400,
+            "best_fitness": 2.196407440867539e-05,
+            "best_distance": 45528.8932915388,
+            "average_distance": 48051.09434824623
+        },
+        {
+            "generation": 403,
+            "best_fitness": 2.2108706765661613e-05,
+            "best_distance": 45231.04904322858,
+            "average_distance": 48623.317677037434
+        },
+        {
+            "generation": 410,
+            "best_fitness": 2.2114816061508044e-05,
+            "best_distance": 45218.55380658357,
+            "average_distance": 48350.827201090084
+        },
+        {
+            "generation": 411,
+            "best_fitness": 2.215869594003376e-05,
+            "best_distance": 45129.009518710714,
+            "average_distance": 48178.3749916169
+        },
+        {
+            "generation": 415,
+            "best_fitness": 2.23771317308074e-05,
+            "best_distance": 44688.479829756914,
+            "average_distance": 49125.16192965459
+        },
+        {
+            "generation": 416,
+            "best_fitness": 2.2436021082625015e-05,
+            "best_distance": 44571.18293467925,
+            "average_distance": 47965.16064941682
+        },
+        {
+            "generation": 421,
+            "best_fitness": 2.2537746388125108e-05,
+            "best_distance": 44370.00855271355,
+            "average_distance": 46956.223468876124
+        },
+        {
+            "generation": 423,
+            "best_fitness": 2.2563581432242248e-05,
+            "best_distance": 44319.20539755489,
+            "average_distance": 47015.855926890035
+        },
+        {
+            "generation": 424,
+            "best_fitness": 2.2609174477760497e-05,
+            "best_distance": 44229.8324949303,
+            "average_distance": 46984.81115325261
+        },
+        {
+            "generation": 426,
+            "best_fitness": 2.2620602811822205e-05,
+            "best_distance": 44207.48679064247,
+            "average_distance": 47016.48257993645
+        },
+        {
+            "generation": 432,
+            "best_fitness": 2.2831565303830187e-05,
+            "best_distance": 43799.011880812286,
+            "average_distance": 48495.81949005981
+        },
+        {
+            "generation": 433,
+            "best_fitness": 2.2884081485403884e-05,
+            "best_distance": 43698.49847973266,
+            "average_distance": 48092.29939239498
+        },
+        {
+            "generation": 434,
+            "best_fitness": 2.2920835709408865e-05,
+            "best_distance": 43628.426671611545,
+            "average_distance": 47872.06935377398
+        },
+        {
+            "generation": 437,
+            "best_fitness": 2.2977923470085585e-05,
+            "best_distance": 43520.033535749055,
+            "average_distance": 47635.73622534578
+        },
+        {
+            "generation": 441,
+            "best_fitness": 2.3032978934967115e-05,
+            "best_distance": 43416.008099667364,
+            "average_distance": 48289.03045432526
+        },
+        {
+            "generation": 443,
+            "best_fitness": 2.308184627728335e-05,
+            "best_distance": 43324.090628927646,
+            "average_distance": 47881.052163269684
+        },
+        {
+            "generation": 445,
+            "best_fitness": 2.3146885063370627e-05,
+            "best_distance": 43202.35734796451,
+            "average_distance": 48662.063813235814
+        },
+        {
+            "generation": 448,
+            "best_fitness": 2.3253980607285255e-05,
+            "best_distance": 43003.39012438624,
+            "average_distance": 48134.46095754266
+        },
+        {
+            "generation": 449,
+            "best_fitness": 2.328135521577579e-05,
+            "best_distance": 42952.8260160038,
+            "average_distance": 48534.04565551473
+        },
+        {
+            "generation": 451,
+            "best_fitness": 2.3305300290140943e-05,
+            "best_distance": 42908.694054589774,
+            "average_distance": 47263.85289951598
+        },
+        {
+            "generation": 452,
+            "best_fitness": 2.3606610396722846e-05,
+            "best_distance": 42361.015969443186,
+            "average_distance": 47526.21925287444
+        },
+        {
+            "generation": 456,
+            "best_fitness": 2.3619477124498214e-05,
+            "best_distance": 42337.93977440746,
+            "average_distance": 45428.097523989745
+        },
+        {
+            "generation": 460,
+            "best_fitness": 2.3692239150169356e-05,
+            "best_distance": 42207.91431580885,
+            "average_distance": 44312.820768484125
+        },
+        {
+            "generation": 464,
+            "best_fitness": 2.376074365066314e-05,
+            "best_distance": 42086.22485483913,
+            "average_distance": 44766.62455796334
+        },
+        {
+            "generation": 466,
+            "best_fitness": 2.3798840727538604e-05,
+            "best_distance": 42018.85341595061,
+            "average_distance": 44190.25049088241
+        },
+        {
+            "generation": 467,
+            "best_fitness": 2.386067415374714e-05,
+            "best_distance": 41909.964217962275,
+            "average_distance": 43936.80744884002
+        },
+        {
+            "generation": 478,
+            "best_fitness": 2.3892480585611326e-05,
+            "best_distance": 41854.17233747701,
+            "average_distance": 44152.18608111774
+        },
+        {
+            "generation": 481,
+            "best_fitness": 2.3933750396142806e-05,
+            "best_distance": 41782.0017109045,
+            "average_distance": 44747.83233318397
+        },
+        {
+            "generation": 482,
+            "best_fitness": 2.3944167431746486e-05,
+            "best_distance": 41763.824231956605,
+            "average_distance": 44889.11470050043
+        },
+        {
+            "generation": 483,
+            "best_fitness": 2.4008920583471474e-05,
+            "best_distance": 41651.18529686973,
+            "average_distance": 45003.60585189397
+        },
+        {
+            "generation": 484,
+            "best_fitness": 2.4024933462258827e-05,
+            "best_distance": 41623.424330016016,
+            "average_distance": 44871.30862544205
+        },
+        {
+            "generation": 487,
+            "best_fitness": 2.413053214407988e-05,
+            "best_distance": 41441.27423420031,
+            "average_distance": 45437.83159148098
+        },
+        {
+            "generation": 491,
+            "best_fitness": 2.4189925944197803e-05,
+            "best_distance": 41339.52300254396,
+            "average_distance": 45672.514464927575
+        },
+        {
+            "generation": 495,
+            "best_fitness": 2.4271295895639217e-05,
+            "best_distance": 41200.931515966906,
+            "average_distance": 43233.75933258159
+        },
+        {
+            "generation": 498,
+            "best_fitness": 2.433002006313773e-05,
+            "best_distance": 41101.48686293498,
+            "average_distance": 44013.561381112384
+        },
+        {
+            "generation": 499,
+            "best_fitness": 2.435254879761013e-05,
+            "best_distance": 41063.46355409567,
+            "average_distance": 43708.36686917306
+        },
+        {
+            "generation": 500,
+            "best_fitness": 2.441233684319e-05,
+            "best_distance": 40962.89537635793,
+            "average_distance": 43267.19168834722
+        },
+        {
+            "generation": 502,
+            "best_fitness": 2.4452704866566257e-05,
+            "best_distance": 40895.271318932166,
+            "average_distance": 43310.797343298684
+        },
+        {
+            "generation": 503,
+            "best_fitness": 2.452819249968534e-05,
+            "best_distance": 40769.412585653365,
+            "average_distance": 43558.45000063675
+        },
+        {
+            "generation": 505,
+            "best_fitness": 2.4535683432719727e-05,
+            "best_distance": 40756.96537013692,
+            "average_distance": 43193.89833160495
+        },
+        {
+            "generation": 508,
+            "best_fitness": 2.4542573382614964e-05,
+            "best_distance": 40745.52347914593,
+            "average_distance": 43280.926597991216
+        },
+        {
+            "generation": 509,
+            "best_fitness": 2.457091031729955e-05,
+            "best_distance": 40698.53282138813,
+            "average_distance": 43159.965393130835
+        },
+        {
+            "generation": 510,
+            "best_fitness": 2.4575468415501927e-05,
+            "best_distance": 40690.984321959506,
+            "average_distance": 43829.05136618211
+        },
+        {
+            "generation": 511,
+            "best_fitness": 2.4584745516803317e-05,
+            "best_distance": 40675.62950027343,
+            "average_distance": 43767.48688684553
+        },
+        {
+            "generation": 513,
+            "best_fitness": 2.460203095946788e-05,
+            "best_distance": 40647.05071087469,
+            "average_distance": 42612.27737541532
+        },
+        {
+            "generation": 516,
+            "best_fitness": 2.462753393456003e-05,
+            "best_distance": 40604.95876920471,
+            "average_distance": 42551.498471707426
+        },
+        {
+            "generation": 517,
+            "best_fitness": 2.4635085677745884e-05,
+            "best_distance": 40592.51155368826,
+            "average_distance": 42590.268347558915
+        },
+        {
+            "generation": 518,
+            "best_fitness": 2.4674593745692977e-05,
+            "best_distance": 40527.51629090359,
+            "average_distance": 42793.04450457316
+        },
+        {
+            "generation": 519,
+            "best_fitness": 2.46816638823378e-05,
+            "best_distance": 40515.90706231115,
+            "average_distance": 43332.195923487045
+        },
+        {
+            "generation": 520,
+            "best_fitness": 2.4682174381568533e-05,
+            "best_distance": 40515.06907538714,
+            "average_distance": 43240.97379763372
+        },
+        {
+            "generation": 522,
+            "best_fitness": 2.4787026658220138e-05,
+            "best_distance": 40343.685178083644,
+            "average_distance": 44370.39718380512
+        },
+        {
+            "generation": 523,
+            "best_fitness": 2.480663318009746e-05,
+            "best_distance": 40311.798571775034,
+            "average_distance": 44649.04502072188
+        },
+        {
+            "generation": 524,
+            "best_fitness": 2.4877450806587348e-05,
+            "best_distance": 40197.044615809595,
+            "average_distance": 43173.08636243921
+        },
+        {
+            "generation": 525,
+            "best_fitness": 2.4990380671109048e-05,
+            "best_distance": 40015.39685052029,
+            "average_distance": 43688.19198185606
+        },
+        {
+            "generation": 526,
+            "best_fitness": 2.49981566140555e-05,
+            "best_distance": 40002.94963500383,
+            "average_distance": 42549.15726046494
+        },
+        {
+            "generation": 528,
+            "best_fitness": 2.5060204706898104e-05,
+            "best_distance": 39903.90388649693,
+            "average_distance": 42854.26101789868
+        },
+        {
+            "generation": 534,
+            "best_fitness": 2.5065370649449343e-05,
+            "best_distance": 39895.67974020639,
+            "average_distance": 42274.80396074785
+        },
+        {
+            "generation": 535,
+            "best_fitness": 2.511051010634716e-05,
+            "best_distance": 39823.96198901714,
+            "average_distance": 42409.61892974709
+        },
+        {
+            "generation": 537,
+            "best_fitness": 2.514346249893236e-05,
+            "best_distance": 39771.76970126775,
+            "average_distance": 41928.843187109145
+        },
+        {
+            "generation": 538,
+            "best_fitness": 2.5191337207859478e-05,
+            "best_distance": 39696.18570656935,
+            "average_distance": 42452.31223905346
+        },
+        {
+            "generation": 539,
+            "best_fitness": 2.527461677896281e-05,
+            "best_distance": 39565.38723199731,
+            "average_distance": 41729.39580673463
+        },
+        {
+            "generation": 540,
+            "best_fitness": 2.5360564356092763e-05,
+            "best_distance": 39431.29916033412,
+            "average_distance": 41638.67585413031
+        },
+        {
+            "generation": 543,
+            "best_fitness": 2.541565711336006e-05,
+            "best_distance": 39345.825116374326,
+            "average_distance": 42704.18873164868
+        },
+        {
+            "generation": 544,
+            "best_fitness": 2.546869190776204e-05,
+            "best_distance": 39263.89323886839,
+            "average_distance": 43054.16138161298
+        },
+        {
+            "generation": 546,
+            "best_fitness": 2.548265239957845e-05,
+            "best_distance": 39242.38279122556,
+            "average_distance": 41555.40283902158
+        },
+        {
+            "generation": 550,
+            "best_fitness": 2.5520297564158507e-05,
+            "best_distance": 39184.49608536034,
+            "average_distance": 42602.81545400249
+        },
+        {
+            "generation": 552,
+            "best_fitness": 2.5675090122709436e-05,
+            "best_distance": 38948.25666514436,
+            "average_distance": 44165.90177331504
+        },
+        {
+            "generation": 555,
+            "best_fitness": 2.575580828108771e-05,
+            "best_distance": 38826.19365257087,
+            "average_distance": 43350.926385516526
+        },
+        {
+            "generation": 559,
+            "best_fitness": 2.576406793458431e-05,
+            "best_distance": 38813.746437054426,
+            "average_distance": 42111.19882000617
+        },
+        {
+            "generation": 576,
+            "best_fitness": 2.601496258652872e-05,
+            "best_distance": 38439.417188238745,
+            "average_distance": 43345.278727678
+        },
+        {
+            "generation": 583,
+            "best_fitness": 2.6044109979316368e-05,
+            "best_distance": 38396.397526894834,
+            "average_distance": 41367.955788903426
+        },
+        {
+            "generation": 584,
+            "best_fitness": 2.605391285238687e-05,
+            "best_distance": 38381.95075210698,
+            "average_distance": 41221.74273932765
+        },
+        {
+            "generation": 585,
+            "best_fitness": 2.6070776884733756e-05,
+            "best_distance": 38357.12316596017,
+            "average_distance": 42605.76805874481
+        },
+        {
+            "generation": 586,
+            "best_fitness": 2.6138477783590028e-05,
+            "best_distance": 38257.77492780429,
+            "average_distance": 42466.347416260636
+        },
+        {
+            "generation": 588,
+            "best_fitness": 2.614512988568387e-05,
+            "best_distance": 38248.041006962594,
+            "average_distance": 41377.97169512981
+        },
+        {
+            "generation": 591,
+            "best_fitness": 2.6632069000665884e-05,
+            "best_distance": 37548.716172783905,
+            "average_distance": 41215.36849278082
+        },
+        {
+            "generation": 594,
+            "best_fitness": 2.6643605645790395e-05,
+            "best_distance": 37532.45762958501,
+            "average_distance": 41389.15703446593
+        },
+        {
+            "generation": 595,
+            "best_fitness": 2.6713832687085746e-05,
+            "best_distance": 37433.78989131086,
+            "average_distance": 41352.99673279215
+        },
+        {
+            "generation": 598,
+            "best_fitness": 2.6776434295473145e-05,
+            "best_distance": 37346.27206016976,
+            "average_distance": 40882.18005829505
+        },
+        {
+            "generation": 600,
+            "best_fitness": 2.6788120235318722e-05,
+            "best_distance": 37329.98027541898,
+            "average_distance": 40610.283299920535
+        },
+        {
+            "generation": 605,
+            "best_fitness": 2.694371075080481e-05,
+            "best_distance": 37114.412682378206,
+            "average_distance": 40801.362112015
+        },
+        {
+            "generation": 612,
+            "best_fitness": 2.698138140582432e-05,
+            "best_distance": 37062.59457064476,
+            "average_distance": 40641.315624291245
+        },
+        {
+            "generation": 613,
+            "best_fitness": 2.704472577609706e-05,
+            "best_distance": 36975.78626897486,
+            "average_distance": 39457.11594703841
+        },
+        {
+            "generation": 620,
+            "best_fitness": 2.7125278095090676e-05,
+            "best_distance": 36865.98148392761,
+            "average_distance": 40620.20325687607
+        },
+        {
+            "generation": 622,
+            "best_fitness": 2.7182378725261653e-05,
+            "best_distance": 36788.53900562649,
+            "average_distance": 39141.9811216936
+        },
+        {
+            "generation": 625,
+            "best_fitness": 2.749401737400873e-05,
+            "best_distance": 36371.548995431374,
+            "average_distance": 38654.30614869773
+        },
+        {
+            "generation": 648,
+            "best_fitness": 2.8011388732467887e-05,
+            "best_distance": 35699.765175901615,
+            "average_distance": 40113.719685833705
+        },
+        {
+            "generation": 656,
+            "best_fitness": 2.8014871189563892e-05,
+            "best_distance": 35695.32742925908,
+            "average_distance": 39392.790210605366
+        },
+        {
+            "generation": 657,
+            "best_fitness": 2.8097797367924118e-05,
+            "best_distance": 35589.978349747085,
+            "average_distance": 39520.917296961314
+        },
+        {
+            "generation": 660,
+            "best_fitness": 2.8112524911161637e-05,
+            "best_distance": 35571.33353052061,
+            "average_distance": 40881.037885545324
+        },
+        {
+            "generation": 664,
+            "best_fitness": 2.8168229008746434e-05,
+            "best_distance": 35500.98941930261,
+            "average_distance": 41263.856029071896
+        },
+        {
+            "generation": 672,
+            "best_fitness": 2.8185096868032532e-05,
+            "best_distance": 35479.74323743402,
+            "average_distance": 38005.49079877076
+        },
+        {
+            "generation": 674,
+            "best_fitness": 2.8198045002310055e-05,
+            "best_distance": 35463.45145268324,
+            "average_distance": 37838.65198521606
+        },
+        {
+            "generation": 680,
+            "best_fitness": 2.820951728997015e-05,
+            "best_distance": 35449.02912449156,
+            "average_distance": 38330.401255302015
+        },
+        {
+            "generation": 692,
+            "best_fitness": 2.844409722156041e-05,
+            "best_distance": 35156.67915949913,
+            "average_distance": 37844.661386645734
+        },
+        {
+            "generation": 693,
+            "best_fitness": 2.844987817953245e-05,
+            "best_distance": 35149.5353930698,
+            "average_distance": 38466.665018324
+        },
+        {
+            "generation": 699,
+            "best_fitness": 2.8455770635342992e-05,
+            "best_distance": 35142.256831307444,
+            "average_distance": 38496.68535882033
+        },
+        {
+            "generation": 700,
+            "best_fitness": 2.861134115847442e-05,
+            "best_distance": 34951.17528609137,
+            "average_distance": 38375.7245034511
+        },
+        {
+            "generation": 714,
+            "best_fitness": 2.8619109548768567e-05,
+            "best_distance": 34941.68811562582,
+            "average_distance": 37697.36748499875
+        },
+        {
+            "generation": 719,
+            "best_fitness": 2.8694325237626016e-05,
+            "best_distance": 34850.096376851885,
+            "average_distance": 36810.587795168394
+        },
+        {
+            "generation": 745,
+            "best_fitness": 2.8822984274135716e-05,
+            "best_distance": 34694.533726590875,
+            "average_distance": 38620.89320703684
+        },
+        {
+            "generation": 750,
+            "best_fitness": 2.8925534591383275e-05,
+            "best_distance": 34571.53045316208,
+            "average_distance": 39366.13635591477
+        },
+        {
+            "generation": 755,
+            "best_fitness": 2.8950228331091846e-05,
+            "best_distance": 34542.041899062475,
+            "average_distance": 37772.68180879113
+        },
+        {
+            "generation": 769,
+            "best_fitness": 2.90415674959116e-05,
+            "best_distance": 34433.40309164709,
+            "average_distance": 37235.05076530239
+        },
+        {
+            "generation": 773,
+            "best_fitness": 2.905373656682354e-05,
+            "best_distance": 34418.980763455394,
+            "average_distance": 37652.83409695812
+        },
+        {
+            "generation": 775,
+            "best_fitness": 2.905531469747799e-05,
+            "best_distance": 34417.1113068963,
+            "average_distance": 37651.44134850537
+        },
+        {
+            "generation": 779,
+            "best_fitness": 2.9067495294306892e-05,
+            "best_distance": 34402.68897870462,
+            "average_distance": 37913.07646493054
+        },
+        {
+            "generation": 781,
+            "best_fitness": 2.9073854716175068e-05,
+            "best_distance": 34395.16396302469,
+            "average_distance": 38434.20697193695
+        },
+        {
+            "generation": 782,
+            "best_fitness": 2.918889731053709e-05,
+            "best_distance": 34259.601839737996,
+            "average_distance": 37254.05567498113
+        },
+        {
+            "generation": 783,
+            "best_fitness": 2.9213240604133916e-05,
+            "best_distance": 34231.05343056298,
+            "average_distance": 37470.15282279936
+        },
+        {
+            "generation": 785,
+            "best_fitness": 2.9289411201425744e-05,
+            "best_distance": 34142.03150493248,
+            "average_distance": 36606.55839119895
+        },
+        {
+            "generation": 788,
+            "best_fitness": 2.944572616521545e-05,
+            "best_distance": 33960.78583320219,
+            "average_distance": 38105.75277705399
+        },
+        {
+            "generation": 790,
+            "best_fitness": 2.9527745196696316e-05,
+            "best_distance": 33866.453172722584,
+            "average_distance": 37312.51316097163
+        },
+        {
+            "generation": 795,
+            "best_fitness": 2.964542882565615e-05,
+            "best_distance": 33732.013319185535,
+            "average_distance": 37088.023507843885
+        },
+        {
+            "generation": 808,
+            "best_fitness": 2.9658675716799314e-05,
+            "best_distance": 33716.94709327762,
+            "average_distance": 37558.87544741757
+        },
+        {
+            "generation": 812,
+            "best_fitness": 2.9686858430418678e-05,
+            "best_distance": 33684.93848360016,
+            "average_distance": 36099.06678622438
+        },
+        {
+            "generation": 831,
+            "best_fitness": 2.974923255689482e-05,
+            "best_distance": 33614.31250663424,
+            "average_distance": 35739.203892139405
+        },
+        {
+            "generation": 835,
+            "best_fitness": 2.975088714944701e-05,
+            "best_distance": 33612.44305007514,
+            "average_distance": 36425.79196790595
+        },
+        {
+            "generation": 838,
+            "best_fitness": 2.9764228476333933e-05,
+            "best_distance": 33597.37682416723,
+            "average_distance": 37606.899709594414
+        },
+        {
+            "generation": 841,
+            "best_fitness": 2.9777010838037983e-05,
+            "best_distance": 33582.95449597554,
+            "average_distance": 37087.64324551268
+        },
+        {
+            "generation": 848,
+            "best_fitness": 3.001770482627835e-05,
+            "best_distance": 33313.67290694962,
+            "average_distance": 36139.00901089651
+        },
+        {
+            "generation": 849,
+            "best_fitness": 3.0031286581409486e-05,
+            "best_distance": 33298.6066810417,
+            "average_distance": 36229.55669765574
+        },
+        {
+            "generation": 850,
+            "best_fitness": 3.009570119410247e-05,
+            "best_distance": 33227.33680635955,
+            "average_distance": 36331.83176284445
+        },
+        {
+            "generation": 851,
+            "best_fitness": 3.009681128647698e-05,
+            "best_distance": 33226.11124751669,
+            "average_distance": 35255.73305489846
+        },
+        {
+            "generation": 852,
+            "best_fitness": 3.0123546278649025e-05,
+            "best_distance": 33196.622693417085,
+            "average_distance": 35950.71198689467
+        },
+        {
+            "generation": 856,
+            "best_fitness": 3.0127703982607585e-05,
+            "best_distance": 33192.041470444936,
+            "average_distance": 36055.07185826547
+        },
+        {
+            "generation": 859,
+            "best_fitness": 3.0140800511102775e-05,
+            "best_distance": 33177.61914225325,
+            "average_distance": 36474.970119547834
+        },
+        {
+            "generation": 879,
+            "best_fitness": 3.0467387871577716e-05,
+            "best_distance": 32821.98015186184,
+            "average_distance": 36333.921721861
+        },
+        {
+            "generation": 929,
+            "best_fitness": 3.071592685307747e-05,
+            "best_distance": 32556.39996745886,
+            "average_distance": 36573.059362138236
+        },
+        {
+            "generation": 943,
+            "best_fitness": 3.094696215992933e-05,
+            "best_distance": 32313.349363086032,
+            "average_distance": 38176.67040376369
+        },
+        {
+            "generation": 970,
+            "best_fitness": 3.114975857065459e-05,
+            "best_distance": 32102.97754737897,
+            "average_distance": 36602.53854875421
+        },
+        {
+            "generation": 976,
+            "best_fitness": 3.1222337115687816e-05,
+            "best_distance": 32028.351890978243,
+            "average_distance": 37027.55026820843
+        },
+        {
+            "generation": 993,
+            "best_fitness": 3.126748839248213e-05,
+            "best_distance": 31982.10190238489,
+            "average_distance": 36461.47056127532
+        },
+        {
+            "generation": 994,
+            "best_fitness": 3.132550638178214e-05,
+            "best_distance": 31922.86783212438,
+            "average_distance": 37331.497520124925
+        },
+        {
+            "generation": 995,
+            "best_fitness": 3.1352848089423295e-05,
+            "best_distance": 31895.029030467707,
+            "average_distance": 37416.76704064463
+        },
+        {
+            "generation": 1022,
+            "best_fitness": 3.136827478181566e-05,
+            "best_distance": 31879.343284116632,
+            "average_distance": 37231.10714940625
+        },
+        {
+            "generation": 1024,
+            "best_fitness": 3.1380527235764976e-05,
+            "best_distance": 31866.896068600185,
+            "average_distance": 37044.689359544405
+        },
+        {
+            "generation": 1032,
+            "best_fitness": 3.14835930477824e-05,
+            "best_distance": 31762.575462156045,
+            "average_distance": 36353.16615002559
+        },
+        {
+            "generation": 1040,
+            "best_fitness": 3.1500902736012096e-05,
+            "best_distance": 31745.121985243666,
+            "average_distance": 33871.04769432401
+        },
+        {
+            "generation": 1042,
+            "best_fitness": 3.151325903840902e-05,
+            "best_distance": 31732.67476972722,
+            "average_distance": 34779.99296490128
+        },
+        {
+            "generation": 1044,
+            "best_fitness": 3.157013837905638e-05,
+            "best_distance": 31675.50259023887,
+            "average_distance": 33471.70260588396
+        },
+        {
+            "generation": 1049,
+            "best_fitness": 3.159489794538824e-05,
+            "best_distance": 31650.679857504187,
+            "average_distance": 34734.9741434654
+        },
+        {
+            "generation": 1054,
+            "best_fitness": 3.1607328112028606e-05,
+            "best_distance": 31638.23264198773,
+            "average_distance": 34151.444511108944
+        },
+        {
+            "generation": 1084,
+            "best_fitness": 3.172375609528974e-05,
+            "best_distance": 31522.11853464847,
+            "average_distance": 34710.76677073644
+        },
+        {
+            "generation": 1085,
+            "best_fitness": 3.175179773844617e-05,
+            "best_distance": 31494.2797329918,
+            "average_distance": 34437.87647537527
+        },
+        {
+            "generation": 1089,
+            "best_fitness": 3.1764351692199204e-05,
+            "best_distance": 31481.83251747535,
+            "average_distance": 35828.41515175509
+        },
+        {
+            "generation": 1101,
+            "best_fitness": 3.182662072521886e-05,
+            "best_distance": 31420.238065287824,
+            "average_distance": 34600.515360232865
+        },
+        {
+            "generation": 1106,
+            "best_fitness": 3.1830478908584595e-05,
+            "best_distance": 31416.4296073567,
+            "average_distance": 36408.23710064212
+        },
+        {
+            "generation": 1111,
+            "best_fitness": 3.1993412876502874e-05,
+            "best_distance": 31256.434062226486,
+            "average_distance": 34953.6578699496
+        },
+        {
+            "generation": 1123,
+            "best_fitness": 3.200110408396433e-05,
+            "best_distance": 31248.921830203275,
+            "average_distance": 35668.46377250464
+        },
+        {
+            "generation": 1128,
+            "best_fitness": 3.2052747360028014e-05,
+            "best_distance": 31198.57367506253,
+            "average_distance": 34795.72762790468
+        },
+        {
+            "generation": 1129,
+            "best_fitness": 3.2066039173401415e-05,
+            "best_distance": 31185.641438044953,
+            "average_distance": 34511.39291310108
+        },
+        {
+            "generation": 1131,
+            "best_fitness": 3.206757140435519e-05,
+            "best_distance": 31184.15134687085,
+            "average_distance": 34495.70446446259
+        },
+        {
+            "generation": 1138,
+            "best_fitness": 3.2161433478743385e-05,
+            "best_distance": 31093.141437894395,
+            "average_distance": 34659.96431470511
+        },
+        {
+            "generation": 1145,
+            "best_fitness": 3.216616685494074e-05,
+            "best_distance": 31088.56596154849,
+            "average_distance": 33065.99035926829
+        },
+        {
+            "generation": 1152,
+            "best_fitness": 3.218871058799863e-05,
+            "best_distance": 31066.792727411826,
+            "average_distance": 33422.4421324794
+        },
+        {
+            "generation": 1155,
+            "best_fitness": 3.2203660691394894e-05,
+            "best_distance": 31052.37039922014,
+            "average_distance": 32662.83522827421
+        },
+        {
+            "generation": 1158,
+            "best_fitness": 3.2208406506294494e-05,
+            "best_distance": 31047.794922874244,
+            "average_distance": 32576.078587053864
+        },
+        {
+            "generation": 1159,
+            "best_fitness": 3.2210220584081476e-05,
+            "best_distance": 31046.046312834234,
+            "average_distance": 32512.911304292258
+        },
+        {
+            "generation": 1161,
+            "best_fitness": 3.22386259271095e-05,
+            "best_distance": 31018.691747624973,
+            "average_distance": 32390.144927520316
+        },
+        {
+            "generation": 1163,
+            "best_fitness": 3.227235026796479e-05,
+            "best_distance": 30986.277469622404,
+            "average_distance": 32787.31572819207
+        },
+        {
+            "generation": 1170,
+            "best_fitness": 3.229942323628712e-05,
+            "best_distance": 30960.305163484765,
+            "average_distance": 33389.107434917336
+        },
+        {
+            "generation": 1174,
+            "best_fitness": 3.231026005207633e-05,
+            "best_distance": 30949.92112066699,
+            "average_distance": 32811.17138227227
+        },
+        {
+            "generation": 1178,
+            "best_fitness": 3.2371599570415484e-05,
+            "best_distance": 30891.275478209714,
+            "average_distance": 34002.020502871164
+        },
+        {
+            "generation": 1186,
+            "best_fitness": 3.2379368734738045e-05,
+            "best_distance": 30883.863369675735,
+            "average_distance": 34330.938129423346
+        },
+        {
+            "generation": 1187,
+            "best_fitness": 3.240858192200355e-05,
+            "best_distance": 30856.024568019064,
+            "average_distance": 33081.36080922466
+        },
+        {
+            "generation": 1215,
+            "best_fitness": 3.241829627689692e-05,
+            "best_distance": 30846.77835807971,
+            "average_distance": 32709.887218986085
+        },
+        {
+            "generation": 1217,
+            "best_fitness": 3.247369561034571e-05,
+            "best_distance": 30794.154505821403,
+            "average_distance": 33008.8675779049
+        },
+        {
+            "generation": 1222,
+            "best_fitness": 3.249567506857859e-05,
+            "best_distance": 30773.32592382244,
+            "average_distance": 32268.939794033642
+        },
+        {
+            "generation": 1226,
+            "best_fitness": 3.2791535693176455e-05,
+            "best_distance": 30495.674534940696,
+            "average_distance": 32958.03380757479
+        },
+        {
+            "generation": 1228,
+            "best_fitness": 3.279331803630997e-05,
+            "best_distance": 30494.01707057405,
+            "average_distance": 34284.82083409788
+        },
+        {
+            "generation": 1229,
+            "best_fitness": 3.301873821989305e-05,
+            "best_distance": 30285.833254449506,
+            "average_distance": 34499.540263147006
+        },
+        {
+            "generation": 1232,
+            "best_fitness": 3.3039462742370484e-05,
+            "best_distance": 30266.83598936309,
+            "average_distance": 35030.34677612918
+        },
+        {
+            "generation": 1234,
+            "best_fitness": 3.306342400693893e-05,
+            "best_distance": 30244.901429148194,
+            "average_distance": 33204.694796048934
+        },
+        {
+            "generation": 1239,
+            "best_fitness": 3.307042874327578e-05,
+            "best_distance": 30238.495175340908,
+            "average_distance": 31879.03333031402
+        },
+        {
+            "generation": 1240,
+            "best_fitness": 3.3086209296055254e-05,
+            "best_distance": 30224.07284714923,
+            "average_distance": 32551.88714478837
+        },
+        {
+            "generation": 1244,
+            "best_fitness": 3.308825591159102e-05,
+            "best_distance": 30222.20339059013,
+            "average_distance": 32299.45047812262
+        },
+        {
+            "generation": 1251,
+            "best_fitness": 3.3097870907291323e-05,
+            "best_distance": 30213.423781881516,
+            "average_distance": 34111.26997542954
+        },
+        {
+            "generation": 1255,
+            "best_fitness": 3.310405348656224e-05,
+            "best_distance": 30207.781062398444,
+            "average_distance": 32767.68756180767
+        },
+        {
+            "generation": 1257,
+            "best_fitness": 3.322527340375865e-05,
+            "best_distance": 30097.57023961385,
+            "average_distance": 32728.804038879076
+        },
+        {
+            "generation": 1260,
+            "best_fitness": 3.327302965135356e-05,
+            "best_distance": 30054.371678153435,
+            "average_distance": 32743.716286724433
+        },
+        {
+            "generation": 1277,
+            "best_fitness": 3.3436675153491406e-05,
+            "best_distance": 29907.279818028845,
+            "average_distance": 32755.790590286517
+        },
+        {
+            "generation": 1292,
+            "best_fitness": 3.349370018171406e-05,
+            "best_distance": 29856.36088502254,
+            "average_distance": 33775.27973944875
+        },
+        {
+            "generation": 1295,
+            "best_fitness": 3.352258532138252e-05,
+            "best_distance": 29830.634791826335,
+            "average_distance": 32268.135023980525
+        },
+        {
+            "generation": 1297,
+            "best_fitness": 3.3524686280517176e-05,
+            "best_distance": 29828.765335267242,
+            "average_distance": 32564.01278943818
+        },
+        {
+            "generation": 1300,
+            "best_fitness": 3.3540903442436395e-05,
+            "best_distance": 29814.343007075557,
+            "average_distance": 31488.92760422007
+        },
+        {
+            "generation": 1305,
+            "best_fitness": 3.37491872459745e-05,
+            "best_distance": 29630.343175724236,
+            "average_distance": 34520.7241975756
+        },
+        {
+            "generation": 1307,
+            "best_fitness": 3.381514671486883e-05,
+            "best_distance": 29572.54654052087,
+            "average_distance": 32360.453500349384
+        },
+        {
+            "generation": 1314,
+            "best_fitness": 3.400060108225316e-05,
+            "best_distance": 29411.244747727615,
+            "average_distance": 32295.415348877086
+        },
+        {
+            "generation": 1315,
+            "best_fitness": 3.4018165629103096e-05,
+            "best_distance": 29396.05888521172,
+            "average_distance": 33079.214045829925
+        },
+        {
+            "generation": 1316,
+            "best_fitness": 3.408259053035065e-05,
+            "best_distance": 29340.49273952627,
+            "average_distance": 31697.523345095535
+        },
+        {
+            "generation": 1317,
+            "best_fitness": 3.41212446568072e-05,
+            "best_distance": 29307.254470287902,
+            "average_distance": 32064.973049676108
+        },
+        {
+            "generation": 1320,
+            "best_fitness": 3.4147950009102374e-05,
+            "best_distance": 29284.33477656618,
+            "average_distance": 31848.325309571388
+        },
+        {
+            "generation": 1323,
+            "best_fitness": 3.417225514096635e-05,
+            "best_distance": 29263.506194567213,
+            "average_distance": 32633.18789705627
+        },
+        {
+            "generation": 1332,
+            "best_fitness": 3.421476282437239e-05,
+            "best_distance": 29227.149845611806,
+            "average_distance": 31314.953866293916
+        },
+        {
+            "generation": 1344,
+            "best_fitness": 3.4225277233463595e-05,
+            "best_distance": 29218.170920241806,
+            "average_distance": 30709.972899066503
+        },
+        {
+            "generation": 1345,
+            "best_fitness": 3.439036546746315e-05,
+            "best_distance": 29077.91139777516,
+            "average_distance": 31855.701513035012
+        },
+        {
+            "generation": 1375,
+            "best_fitness": 3.4526840426948406e-05,
+            "best_distance": 28962.97453327047,
+            "average_distance": 33023.17873932581
+        },
+        {
+            "generation": 1376,
+            "best_fitness": 3.499368071405528e-05,
+            "best_distance": 28576.58810375863,
+            "average_distance": 33044.380185868395
+        },
+        {
+            "generation": 1389,
+            "best_fitness": 3.5057470503027164e-05,
+            "best_distance": 28524.59078340097,
+            "average_distance": 32595.896045550966
+        },
+        {
+            "generation": 1399,
+            "best_fitness": 3.509141900053117e-05,
+            "best_distance": 28496.995233645674,
+            "average_distance": 33171.05132774756
+        },
+        {
+            "generation": 1402,
+            "best_fitness": 3.510464236572934e-05,
+            "best_distance": 28486.26086492318,
+            "average_distance": 33465.65637294345
+        },
+        {
+            "generation": 1403,
+            "best_fitness": 3.511708623682227e-05,
+            "best_distance": 28476.16665164671,
+            "average_distance": 33116.54935265964
+        },
+        {
+            "generation": 1405,
+            "best_fitness": 3.5154957995387373e-05,
+            "best_distance": 28445.48982624893,
+            "average_distance": 33225.63019080473
+        },
+        {
+            "generation": 1413,
+            "best_fitness": 3.525989034487812e-05,
+            "best_distance": 28360.836923171566,
+            "average_distance": 31366.851690317348
+        },
+        {
+            "generation": 1414,
+            "best_fitness": 3.528580471683178e-05,
+            "best_distance": 28340.008341172597,
+            "average_distance": 31799.95126029664
+        },
+        {
+            "generation": 1417,
+            "best_fitness": 3.532019709401604e-05,
+            "best_distance": 28312.412791417304,
+            "average_distance": 32435.30956896045
+        },
+        {
+            "generation": 1419,
+            "best_fitness": 3.535850844522058e-05,
+            "best_distance": 28281.735966019525,
+            "average_distance": 31942.953190280597
+        },
+        {
+            "generation": 1432,
+            "best_fitness": 3.53803652647766e-05,
+            "best_distance": 28264.264444877383,
+            "average_distance": 30516.403568980146
+        },
+        {
+            "generation": 1438,
+            "best_fitness": 3.538422273447487e-05,
+            "best_distance": 28261.183169234897,
+            "average_distance": 31130.560676614095
+        },
+        {
+            "generation": 1439,
+            "best_fitness": 3.53938073332638e-05,
+            "best_distance": 28253.530076154886,
+            "average_distance": 31635.71579629466
+        },
+        {
+            "generation": 1440,
+            "best_fitness": 3.540324631278378e-05,
+            "best_distance": 28245.997306719,
+            "average_distance": 31002.306254610357
+        },
+        {
+            "generation": 1442,
+            "best_fitness": 3.5444955903515165e-05,
+            "best_distance": 28212.759037480635,
+            "average_distance": 32341.802211408485
+        },
+        {
+            "generation": 1494,
+            "best_fitness": 3.5483335100641855e-05,
+            "best_distance": 28182.243781867932,
+            "average_distance": 31136.0980600632
+        },
+        {
+            "generation": 1495,
+            "best_fitness": 3.549607066190239e-05,
+            "best_distance": 28172.13233332023,
+            "average_distance": 30914.462434931796
+        },
+        {
+            "generation": 1502,
+            "best_fitness": 3.552233348883764e-05,
+            "best_distance": 28151.303751321262,
+            "average_distance": 29922.290053276643
+        },
+        {
+            "generation": 1522,
+            "best_fitness": 3.5587703564845425e-05,
+            "best_distance": 28099.59339404606,
+            "average_distance": 31096.93164774694
+        },
+        {
+            "generation": 1530,
+            "best_fitness": 3.5751440815951684e-05,
+            "best_distance": 27970.900673569973,
+            "average_distance": 32771.52956480601
+        },
+        {
+            "generation": 1536,
+            "best_fitness": 3.5865811719707356e-05,
+            "best_distance": 27881.70550314146,
+            "average_distance": 31903.832412306507
+        },
+        {
+            "generation": 1542,
+            "best_fitness": 3.59126400054376e-05,
+            "best_distance": 27845.34915418605,
+            "average_distance": 31683.98596320479
+        },
+        {
+            "generation": 1546,
+            "best_fitness": 3.65979164807842e-05,
+            "best_distance": 27323.95983593907,
+            "average_distance": 31526.070656598597
+        },
+        {
+            "generation": 1548,
+            "best_fitness": 3.666384587529602e-05,
+            "best_distance": 27274.825543432602,
+            "average_distance": 31565.063670413892
+        },
+        {
+            "generation": 1551,
+            "best_fitness": 3.6713818383745305e-05,
+            "best_distance": 27237.70079014011,
+            "average_distance": 31088.76066696043
+        },
+        {
+            "generation": 1553,
+            "best_fitness": 3.6718692008247536e-05,
+            "best_distance": 27234.08556534056,
+            "average_distance": 31746.30884510234
+        },
+        {
+            "generation": 1554,
+            "best_fitness": 3.676777542874993e-05,
+            "best_distance": 27197.72921638515,
+            "average_distance": 31405.818711172808
+        },
+        {
+            "generation": 1633,
+            "best_fitness": 3.678728287595982e-05,
+            "best_distance": 27183.306888193467,
+            "average_distance": 29591.582451411596
+        },
+        {
+            "generation": 1661,
+            "best_fitness": 3.6881933276886736e-05,
+            "best_distance": 27113.546149889127,
+            "average_distance": 28636.232555577564
+        },
+        {
+            "generation": 1674,
+            "best_fitness": 3.6934483652943435e-05,
+            "best_distance": 27074.969001774756,
+            "average_distance": 31473.269018894433
+        },
+        {
+            "generation": 1682,
+            "best_fitness": 3.696259909634612e-05,
+            "best_distance": 27054.374542044945,
+            "average_distance": 29177.879650675182
+        },
+        {
+            "generation": 1686,
+            "best_fitness": 3.7073964581208576e-05,
+            "best_distance": 26973.106634159732,
+            "average_distance": 30070.342798772268
+        },
+        {
+            "generation": 1736,
+            "best_fitness": 3.7113602982326276e-05,
+            "best_distance": 26944.298576352347,
+            "average_distance": 31198.45488828582
+        },
+        {
+            "generation": 1762,
+            "best_fitness": 3.713049910198728e-05,
+            "best_distance": 26932.037655978576,
+            "average_distance": 31103.602142676315
+        },
+        {
+            "generation": 1763,
+            "best_fitness": 3.7150393443943226e-05,
+            "best_distance": 26917.615327786894,
+            "average_distance": 31857.051250598473
+        },
+        {
+            "generation": 1764,
+            "best_fitness": 3.7151355728350284e-05,
+            "best_distance": 26916.9181149666,
+            "average_distance": 31312.715072758125
+        },
+        {
+            "generation": 1768,
+            "best_fitness": 3.739389225341534e-05,
+            "best_distance": 26742.33517129167,
+            "average_distance": 29412.095926425332
+        },
+        {
+            "generation": 1769,
+            "best_fitness": 3.7394867193735754e-05,
+            "best_distance": 26741.637958471376,
+            "average_distance": 28751.721544982618
+        },
+        {
+            "generation": 1773,
+            "best_fitness": 3.7415045915485634e-05,
+            "best_distance": 26727.215630279694,
+            "average_distance": 28507.31840347516
+        },
+        {
+            "generation": 1775,
+            "best_fitness": 3.7431501810228856e-05,
+            "best_distance": 26715.465627583537,
+            "average_distance": 29020.061446695254
+        },
+        {
+            "generation": 1779,
+            "best_fitness": 3.743247871268745e-05,
+            "best_distance": 26714.768414763243,
+            "average_distance": 28268.747416851285
+        },
+        {
+            "generation": 1842,
+            "best_fitness": 3.755840158829295e-05,
+            "best_distance": 26625.201225594825,
+            "average_distance": 30308.415234108536
+        },
+        {
+            "generation": 1844,
+            "best_fitness": 3.757596826022949e-05,
+            "best_distance": 26612.754010078374,
+            "average_distance": 30289.869937123272
+        },
+        {
+            "generation": 1850,
+            "best_fitness": 3.762150039896315e-05,
+            "best_distance": 26580.545416725592,
+            "average_distance": 29841.70803324568
+        },
+        {
+            "generation": 1865,
+            "best_fitness": 3.7624296136335375e-05,
+            "best_distance": 26578.570304050358,
+            "average_distance": 32793.04595608957
+        },
+        {
+            "generation": 1867,
+            "best_fitness": 3.7641924516701714e-05,
+            "best_distance": 26566.123088533906,
+            "average_distance": 32014.582393077686
+        },
+        {
+            "generation": 1892,
+            "best_fitness": 3.7771399321674646e-05,
+            "best_distance": 26475.058323459107,
+            "average_distance": 29822.74028121284
+        },
+        {
+            "generation": 1897,
+            "best_fitness": 3.790498643959711e-05,
+            "best_distance": 26381.753271262452,
+            "average_distance": 30160.80853683681
+        },
+        {
+            "generation": 1899,
+            "best_fitness": 3.792287889131216e-05,
+            "best_distance": 26369.306055746,
+            "average_distance": 30115.61725114213
+        },
+        {
+            "generation": 1901,
+            "best_fitness": 3.792571960199848e-05,
+            "best_distance": 26367.330943070767,
+            "average_distance": 28226.212765875956
+        },
+        {
+            "generation": 1902,
+            "best_fitness": 3.794262787309997e-05,
+            "best_distance": 26355.58094037461,
+            "average_distance": 28385.24797336608
+        },
+        {
+            "generation": 1903,
+            "best_fitness": 3.794835996530031e-05,
+            "best_distance": 26351.5999351327,
+            "average_distance": 28003.43322220698
+        },
+        {
+            "generation": 1904,
+            "best_fitness": 3.79493640327266e-05,
+            "best_distance": 26350.902722312407,
+            "average_distance": 28340.57859972426
+        },
+        {
+            "generation": 1906,
+            "best_fitness": 3.800963059036547e-05,
+            "best_distance": 26309.121779612247,
+            "average_distance": 28271.38654719562
+        },
+        {
+            "generation": 1907,
+            "best_fitness": 3.80304784181884e-05,
+            "best_distance": 26294.69945142056,
+            "average_distance": 28212.343362523156
+        },
+        {
+            "generation": 1909,
+            "best_fitness": 3.807490098335221e-05,
+            "best_distance": 26264.021026272345,
+            "average_distance": 28211.420790903747
+        },
+        {
+            "generation": 1910,
+            "best_fitness": 3.809602245142748e-05,
+            "best_distance": 26249.459540690958,
+            "average_distance": 28074.25241063724
+        },
+        {
+            "generation": 1916,
+            "best_fitness": 3.810180098828556e-05,
+            "best_distance": 26245.47853544905,
+            "average_distance": 29041.77415516685
+        },
+        {
+            "generation": 1941,
+            "best_fitness": 3.8112810496681166e-05,
+            "best_distance": 26237.897099902384,
+            "average_distance": 28671.116299583144
+        },
+        {
+            "generation": 1943,
+            "best_fitness": 3.861264738682946e-05,
+            "best_distance": 25898.250124675313,
+            "average_distance": 28204.301693434394
+        },
+        {
+            "generation": 1971,
+            "best_fitness": 3.875326534488608e-05,
+            "best_distance": 25804.27716478764,
+            "average_distance": 30000.699958432913
+        },
+        {
+            "generation": 1975,
+            "best_fitness": 3.881078118696374e-05,
+            "best_distance": 25766.03638001218,
+            "average_distance": 31184.47358166524
+        },
+        {
+            "generation": 1976,
+            "best_fitness": 3.8865621290002804e-05,
+            "best_distance": 25729.68003105677,
+            "average_distance": 30656.707406800633
+        },
+        {
+            "generation": 1981,
+            "best_fitness": 3.8877076700676125e-05,
+            "best_distance": 25722.098595510106,
+            "average_distance": 30096.456784606245
+        },
+        {
+            "generation": 1987,
+            "best_fitness": 3.8926938307958485e-05,
+            "best_distance": 25689.151098625018,
+            "average_distance": 28810.12709222097
+        },
+        {
+            "generation": 2031,
+            "best_fitness": 3.896938252516645e-05,
+            "best_distance": 25661.1712888753,
+            "average_distance": 27985.446546580275
+        },
+        {
+            "generation": 2032,
+            "best_fitness": 3.9024650215981823e-05,
+            "best_distance": 25624.829292908526,
+            "average_distance": 28219.915184665137
+        },
+        {
+            "generation": 2065,
+            "best_fitness": 3.902761007877839e-05,
+            "best_distance": 25622.88590004539,
+            "average_distance": 28056.807469847874
+        },
+        {
+            "generation": 2066,
+            "best_fitness": 3.903916119310392e-05,
+            "best_distance": 25615.30446449872,
+            "average_distance": 27929.7623047339
+        },
+        {
+            "generation": 2262,
+            "best_fitness": 3.904073575175918e-05,
+            "best_distance": 25614.271369231046,
+            "average_distance": 28466.270670874837
+        },
+        {
+            "generation": 2265,
+            "best_fitness": 3.905229463822842e-05,
+            "best_distance": 25606.689933684378,
+            "average_distance": 29016.897233428837
+        },
+        {
+            "generation": 2269,
+            "best_fitness": 3.913663203668314e-05,
+            "best_distance": 25551.508853973188,
+            "average_distance": 28351.33013692744
+        },
+        {
+            "generation": 2306,
+            "best_fitness": 3.914617467968644e-05,
+            "best_distance": 25545.280175713197,
+            "average_distance": 28797.545822293996
+        },
+        {
+            "generation": 2335,
+            "best_fitness": 3.926387184316628e-05,
+            "best_distance": 25468.705786183084,
+            "average_distance": 29154.55087780601
+        },
+        {
+            "generation": 2353,
+            "best_fitness": 3.9283070496161e-05,
+            "best_distance": 25456.258570666632,
+            "average_distance": 29292.10080827941
+        },
+        {
+            "generation": 2457,
+            "best_fitness": 3.930579940740824e-05,
+            "best_distance": 25441.53827365035,
+            "average_distance": 28180.409783033418
+        },
+        {
+            "generation": 2573,
+            "best_fitness": 3.935124197181924e-05,
+            "best_distance": 25412.158546765408,
+            "average_distance": 28918.332967783244
+        },
+        {
+            "generation": 2575,
+            "best_fitness": 3.938477438594522e-05,
+            "best_distance": 25390.52249482628,
+            "average_distance": 28317.37445556426
+        },
+        {
+            "generation": 2576,
+            "best_fitness": 3.9407621174092494e-05,
+            "best_distance": 25375.802197809997,
+            "average_distance": 28765.803292760265
+        },
+        {
+            "generation": 2737,
+            "best_fitness": 3.9445175100334405e-05,
+            "best_distance": 25351.64307057474,
+            "average_distance": 30706.07815786285
+        },
+        {
+            "generation": 2744,
+            "best_fitness": 3.962921136172841e-05,
+            "best_distance": 25233.91118920277,
+            "average_distance": 29067.023203155946
+        },
+        {
+            "generation": 2749,
+            "best_fitness": 3.968639045891578e-05,
+            "best_distance": 25197.554840247358,
+            "average_distance": 28844.261692060336
+        },
+        {
+            "generation": 2798,
+            "best_fitness": 3.970600463180211e-05,
+            "best_distance": 25185.107624730907,
+            "average_distance": 28378.158133871344
+        },
+        {
+            "generation": 3276,
+            "best_fitness": 4.0472646394958224e-05,
+            "best_distance": 24708.045780880107,
+            "average_distance": 27914.622639318284
+        },
+        {
+            "generation": 3288,
+            "best_fitness": 4.049628447262683e-05,
+            "best_distance": 24693.623452688425,
+            "average_distance": 28870.088091163077
+        },
+        {
+            "generation": 3465,
+            "best_fitness": 4.050853088737648e-05,
+            "best_distance": 24686.158152223343,
+            "average_distance": 29096.62239713616
+        },
+        {
+            "generation": 3516,
+            "best_fitness": 4.052016956318374e-05,
+            "best_distance": 24679.067505891955,
+            "average_distance": 29170.43057946062
+        },
+        {
+            "generation": 3556,
+            "best_fitness": 4.126096405174743e-05,
+            "best_distance": 24235.98243477419,
+            "average_distance": 29173.88190107582
+        },
+        {
+            "generation": 3559,
+            "best_fitness": 4.128553221178506e-05,
+            "best_distance": 24221.560106582503,
+            "average_distance": 28770.275351034434
+        },
+        {
+            "generation": 3603,
+            "best_fitness": 4.140032723295052e-05,
+            "best_distance": 24154.398451326735,
+            "average_distance": 29865.91276334344
+        },
+        {
+            "generation": 3605,
+            "best_fitness": 4.149070523881473e-05,
+            "best_distance": 24101.78362223874,
+            "average_distance": 28362.565000070295
+        },
+        {
+            "generation": 3618,
+            "best_fitness": 4.149410563171781e-05,
+            "best_distance": 24099.80850956351,
+            "average_distance": 27974.21031375533
+        },
+        {
+            "generation": 3619,
+            "best_fitness": 4.151554783408922e-05,
+            "best_distance": 24087.36129404706,
+            "average_distance": 28698.108556126506
+        },
+        {
+            "generation": 3798,
+            "best_fitness": 4.157563443467299e-05,
+            "best_distance": 24052.549374111924,
+            "average_distance": 28171.754982147122
+        },
+        {
+            "generation": 3806,
+            "best_fitness": 4.1581864692352355e-05,
+            "best_distance": 24048.94555351477,
+            "average_distance": 26914.762830275376
+        },
+        {
+            "generation": 3810,
+            "best_fitness": 4.158977743191291e-05,
+            "best_distance": 24044.37007716887,
+            "average_distance": 28027.13493714962
+        },
+        {
+            "generation": 3811,
+            "best_fitness": 4.1600578867467145e-05,
+            "best_distance": 24038.12704592024,
+            "average_distance": 27182.180663635972
+        },
+        {
+            "generation": 3814,
+            "best_fitness": 4.1631174453420766e-05,
+            "best_distance": 24020.46094372991,
+            "average_distance": 26835.43725725962
+        },
+        {
+            "generation": 3816,
+            "best_fitness": 4.2159276483826875e-05,
+            "best_distance": 23719.572141699813,
+            "average_distance": 25650.139840241067
+        },
+        {
+            "generation": 3817,
+            "best_fitness": 4.221791897305687e-05,
+            "best_distance": 23686.624644814725,
+            "average_distance": 25529.100437501118
+        },
+        {
+            "generation": 3828,
+            "best_fitness": 4.223756854315713e-05,
+            "best_distance": 23675.60526071071,
+            "average_distance": 25202.96434853098
+        },
+        {
+            "generation": 3833,
+            "best_fitness": 4.2263313835659424e-05,
+            "best_distance": 23661.182932519027,
+            "average_distance": 25615.564861093764
+        },
+        {
+            "generation": 3834,
+            "best_fitness": 4.233637993401378e-05,
+            "best_distance": 23620.347359850264,
+            "average_distance": 25543.13105759557
+        },
+        {
+            "generation": 3838,
+            "best_fitness": 4.236224586237868e-05,
+            "best_distance": 23605.925031658582,
+            "average_distance": 28191.825113015795
+        },
+        {
+            "generation": 3846,
+            "best_fitness": 4.236389026873822e-05,
+            "best_distance": 23605.008738726116,
+            "average_distance": 26982.815855150853
+        },
+        {
+            "generation": 3856,
+            "best_fitness": 4.262451542406327e-05,
+            "best_distance": 23460.67726638505,
+            "average_distance": 27335.993576129244
+        },
+        {
+            "generation": 3858,
+            "best_fitness": 4.264064880892553e-05,
+            "best_distance": 23451.800756621702,
+            "average_distance": 27129.884491402525
+        },
+        {
+            "generation": 3859,
+            "best_fitness": 4.27068554664116e-05,
+            "best_distance": 23415.44440766629,
+            "average_distance": 27799.420986329846
+        },
+        {
+            "generation": 3862,
+            "best_fitness": 4.270852673604555e-05,
+            "best_distance": 23414.52811473383,
+            "average_distance": 27313.534468020225
+        },
+        {
+            "generation": 4176,
+            "best_fitness": 4.2877585657983796e-05,
+            "best_distance": 23322.208670436186,
+            "average_distance": 26971.92121531837
+        },
+        {
+            "generation": 4184,
+            "best_fitness": 4.2886223163357255e-05,
+            "best_distance": 23317.51145795505,
+            "average_distance": 27633.703274598403
+        },
+        {
+            "generation": 4188,
+            "best_fitness": 4.293430535999168e-05,
+            "best_distance": 23291.39813990911,
+            "average_distance": 28856.684099105285
+        },
+        {
+            "generation": 4371,
+            "best_fitness": 4.2970069308440514e-05,
+            "best_distance": 23272.01273104701,
+            "average_distance": 27414.404666473853
+        },
+        {
+            "generation": 4374,
+            "best_fitness": 4.2996715596007336e-05,
+            "best_distance": 23257.590402855323,
+            "average_distance": 27001.850028638888
+        },
+        {
+            "generation": 4375,
+            "best_fitness": 4.332913141817698e-05,
+            "best_distance": 23079.16100022468,
+            "average_distance": 26350.460577879214
+        },
+        {
+            "generation": 4387,
+            "best_fitness": 4.340535336541592e-05,
+            "best_distance": 23038.63285206589,
+            "average_distance": 25720.097458082197
+        },
+        {
+            "generation": 4509,
+            "best_fitness": 4.3430728853131985e-05,
+            "best_distance": 23025.171955590737,
+            "average_distance": 26257.893836121126
+        },
+        {
+            "generation": 4511,
+            "best_fitness": 4.343827507627889e-05,
+            "best_distance": 23021.171955929894,
+            "average_distance": 27529.81162543683
+        },
+        {
+            "generation": 4512,
+            "best_fitness": 4.346234581580736e-05,
+            "best_distance": 23008.422146332876,
+            "average_distance": 28249.613001192993
+        },
+        {
+            "generation": 4513,
+            "best_fitness": 4.348760382600275e-05,
+            "best_distance": 22995.058637883958,
+            "average_distance": 27300.547613359115
+        },
+        {
+            "generation": 5356,
+            "best_fitness": 4.3811075989835976e-05,
+            "best_distance": 22825.278252284803,
+            "average_distance": 25877.7676911873
+        },
+        {
+            "generation": 5393,
+            "best_fitness": 4.3812991971086205e-05,
+            "best_distance": 22824.28008249098,
+            "average_distance": 26472.670133155316
+        },
+        {
+            "generation": 5397,
+            "best_fitness": 4.438695411468476e-05,
+            "best_distance": 22529.142175790003,
+            "average_distance": 26153.97103866413
+        },
+        {
+            "generation": 5434,
+            "best_fitness": 4.4409999681695484e-05,
+            "best_distance": 22517.451185935744,
+            "average_distance": 25268.045654675545
+        },
+        {
+            "generation": 5436,
+            "best_fitness": 4.443846232085623e-05,
+            "best_distance": 22503.028857744062,
+            "average_distance": 25873.818566948397
+        },
+        {
+            "generation": 5439,
+            "best_fitness": 4.4886083756324023e-05,
+            "best_distance": 22278.619926584917,
+            "average_distance": 26162.61747043854
+        },
+        {
+            "generation": 5450,
+            "best_fitness": 4.4915160116624555e-05,
+            "best_distance": 22264.197598393235,
+            "average_distance": 25617.87757481362
+        },
+        {
+            "generation": 5873,
+            "best_fitness": 4.4929389159145165e-05,
+            "best_distance": 22257.146574102815,
+            "average_distance": 26665.96828730145
+        },
+        {
+            "generation": 6349,
+            "best_fitness": 4.5152579475418724e-05,
+            "best_distance": 22147.12894851123,
+            "average_distance": 25456.837286341513
+        },
+        {
+            "generation": 6354,
+            "best_fitness": 4.5173588994833655e-05,
+            "best_distance": 22136.82867027383,
+            "average_distance": 25028.52924178524
+        },
+        {
+            "generation": 6355,
+            "best_fitness": 4.5175132241827305e-05,
+            "best_distance": 22136.072444611633,
+            "average_distance": 25671.83904921274
+        },
+        {
+            "generation": 6356,
+            "best_fitness": 4.517797057408614e-05,
+            "best_distance": 22134.681732994777,
+            "average_distance": 24775.88691190533
+        },
+        {
+            "generation": 6359,
+            "best_fitness": 4.522848704855695e-05,
+            "best_distance": 22109.959126565693,
+            "average_distance": 27049.574674134223
+        },
+        {
+            "generation": 6368,
+            "best_fitness": 4.523339673110026e-05,
+            "best_distance": 22107.55928732739,
+            "average_distance": 26045.605750833285
+        },
+        {
+            "generation": 6370,
+            "best_fitness": 4.536731434833132e-05,
+            "best_distance": 22042.301034660682,
+            "average_distance": 27057.010161951246
+        },
+        {
+            "generation": 6374,
+            "best_fitness": 4.539294759781778e-05,
+            "best_distance": 22029.85381914423,
+            "average_distance": 27763.814792254267
+        },
+        {
+            "generation": 6521,
+            "best_fitness": 4.5398167388681103e-05,
+            "best_distance": 22027.320870430663,
+            "average_distance": 24864.880736606734
+        },
+        {
+            "generation": 6757,
+            "best_fitness": 4.560117163286386e-05,
+            "best_distance": 21929.261117477952,
+            "average_distance": 24128.045276508015
+        },
+        {
+            "generation": 6776,
+            "best_fitness": 4.5617130740529135e-05,
+            "best_distance": 21921.589187360638,
+            "average_distance": 26906.3933588351
+        },
+        {
+            "generation": 6780,
+            "best_fitness": 4.563922848266253e-05,
+            "best_distance": 21910.97512482887,
+            "average_distance": 23998.71838295099
+        },
+        {
+            "generation": 6781,
+            "best_fitness": 4.571508240879365e-05,
+            "best_distance": 21874.61877587346,
+            "average_distance": 24266.896599149448
+        },
+        {
+            "generation": 6782,
+            "best_fitness": 4.573112136110013e-05,
+            "best_distance": 21866.946845756145,
+            "average_distance": 24714.72227824328
+        },
+        {
+            "generation": 6783,
+            "best_fitness": 4.573641922024088e-05,
+            "best_distance": 21864.413897042577,
+            "average_distance": 24775.547132015767
+        }
+    ],
+    "best_individual": {
+        "path": [
+            56,
+            8,
+            6,
+            33,
+            82,
+            54,
+            11,
+            19,
+            26,
+            85,
+            34,
+            61,
+            59,
+            76,
+            22,
+            97,
+            90,
+            44,
+            31,
+            10,
+            14,
+            16,
+            58,
+            73,
+            20,
+            71,
+            9,
+            83,
+            35,
+            98,
+            37,
+            23,
+            17,
+            78,
+            89,
+            48,
+            5,
+            62,
+            74,
+            18,
+            52,
+            87,
+            15,
+            93,
+            21,
+            69,
+            65,
+            25,
+            64,
+            3,
+            96,
+            55,
+            79,
+            30,
+            88,
+            41,
+            7,
+            91,
+            0,
+            46,
+            92,
+            27,
+            57,
+            66,
+            63,
+            39,
+            53,
+            1,
+            43,
+            49,
+            81,
+            94,
+            12,
+            75,
+            32,
+            36,
+            4,
+            95,
+            77,
+            51,
+            47,
+            99,
+            40,
+            70,
+            13,
+            2,
+            42,
+            45,
+            28,
+            29,
+            38,
+            84,
+            67,
+            72,
+            68,
+            80,
+            24,
+            60,
+            50,
+            86
+        ],
+        "distance": 21864.413897042577,
+        "fitness": 4.573641922024088e-05
+    },
+    "time_taken": 710.453864812851,
+    "options": {
+        "generations": 15000,
+        "population_size": 150,
+        "early_stop": 1000,
+        "chance_of_mutation": 10,
+        "chance_of_crossover": 95,
+        "selection_type": "tournament",
+        "crossover_type": {
+            "PMX": 80,
+            "OX": 20
+        },
+        "mutation_type": {
+            "INVERSION": 35,
+            "SCRAMBLE": 15,
+            "SWAP": 50
+        },
+        "file_path": "tsp/kroa100.tsp",
+        "elites_size": 5,
+        "verbose": 0
+    }
+}

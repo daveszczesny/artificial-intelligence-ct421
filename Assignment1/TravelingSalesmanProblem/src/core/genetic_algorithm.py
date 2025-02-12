@@ -44,7 +44,8 @@ def run(
             MutationType.INVERSION: 25
         },
         write_results: bool = False,
-        plot_graphs: bool = False
+        plot_graphs: bool = False,
+        output_file: str = 'results.json'
     ):
 
     assert selection_type in ['tournament', 'roulette'], 'Invalid selection type'
@@ -78,7 +79,6 @@ def run(
 
     # Selection Step
     for g in range(generations):
-        
         if 'generation' in generation_tracker:
             if generation_tracker['best_distance'] == population.individuals[0].distance:
                 pass
@@ -96,7 +96,8 @@ def run(
             'average_distance': np.mean([ind.distance for ind in population.individuals]),
         }
 
-        if verbose > 0: print(f'Population size: {len(population.individuals)}')
+        if verbose > 0:
+            print(f'Population size: {len(population.individuals)}')
 
         elites = copy.deepcopy(population.individuals[:elites_size]) # get the best individuals
 
@@ -111,7 +112,7 @@ def run(
             break
 
         no_selects_parents = int( len(population.individuals) * 0.8)
-        
+
         if selection_type == 'roulette':
             parents: List[Individual] = roulette_wheel_selection(
                 population=population,
@@ -124,7 +125,8 @@ def run(
                 tournament_size=3
             )
 
-        if verbose > 0: print(f'Parents selected: {len(parents)}')
+        if verbose > 0:
+            print(f'Parents selected: {len(parents)}')
 
         # Perform crossover on the parents to create new offspring `Individuals`
         offspring: List[Individual] = []
@@ -132,9 +134,9 @@ def run(
 
         for i in range(0, len(parents), 2):
             if i + 1 >= len(parents):
-                    # if we have an odd number of parents, we just add the last parent to the offspring
-                    offspring.append(parents[i])
-                    break
+                # if we have an odd number of parents, we just add the last parent to the offspring
+                offspring.append(parents[i])
+                break
 
             # Perform crossover
             if random.randint(0, 100) < chance_of_crossover:
@@ -160,21 +162,19 @@ def run(
 
         offspring = apply_mutation(offspring, mutation_type, chance_of_mutation, distance_matrix)
 
-
         # replace the worst individuals with the offspring
-        for i in range(0, len(offspring)):
-            if tuple(offspring[i].path) in set(tuple(ind.path) for ind in population.individuals):
+        for index, individual in enumerate(offspring):
+            if tuple(individual.path) in set(tuple(ind.path) for ind in population.individuals):
                 # if the path already exists, we skip it
                 continue
-            # replace the worst individuals with the offspring
-            population.individuals[-(i+1)] = offspring[i]
+            population.individuals[-(index+1)] = individual
 
         population.individuals[0:elites_size] = elites
 
         # sort again
         population.individuals.sort(key=lambda x: x.distance, reverse=False)
 
-        average_distance = sum([individual.distance for individual in population.individuals]) / len(population.individuals)
+        average_distance = np.mean([ind.distance for ind in population.individuals])
         print(f'Generation: {g}, '
               f'Best fitness: {population.individuals[0].fitness}, '
               f'Best distance: {population.individuals[0].distance:.2f}, '
@@ -216,8 +216,7 @@ def run(
     run_tracker = np_to_python(run_tracker)
 
     if write_results:
-        file_name = f'results_{file_path.split("/")[1].split(".")[0]}.json'
-        write_to_json(run_tracker, file_name)
+        write_to_json(run_tracker, output_file)
 
     return {
         'best_individual': population.individuals[0].to_dict(),
