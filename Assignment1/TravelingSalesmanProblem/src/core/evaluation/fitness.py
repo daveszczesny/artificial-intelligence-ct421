@@ -7,7 +7,7 @@ def calculate_fitness(
         total_distance: np.float64,
         heuristic: Callable =_inverse_distance_heuristic,
         ) -> np.float64:
-    return heuristic(total_distance)
+    return np.float64(heuristic(total_distance))
 
 def calculate_fitness_of_population(
         total_distances: List[np.float64],

@@ -2,6 +2,8 @@ import os
 import logging
 from typing import List, Dict, Any, Tuple
 
+import numpy as np
+
 logging.basicConfig(level=logging.INFO, format='%(name)s - %(message)s')
 logger = logging.getLogger("TSP Parser")
 
@@ -37,7 +39,7 @@ def load_tsp_file(file_path: str) -> Dict[str, Any]:
     dimensions = int(lines[3].strip().split(':')[1])
     logger.info('Detected dimensions: %d', dimensions)
 
-    cities: List[Tuple[float, float]] = []
+    cities: List[Tuple[np.float64, np.float64]] = []
 
     for line in lines[6: ]:
         if 'EOF' in line:
@@ -46,7 +48,7 @@ def load_tsp_file(file_path: str) -> Dict[str, Any]:
         # Read the coordinates of each city
         # Each line has index, x, y, We can ignore the index
         _, x, y = line.strip().split(' ')
-        cities.append((float(x), float(y)))
+        cities.append((np.float64(x), np.float64(y)))
 
     assert len(cities) == dimensions, "Number of cities does not match dimensions"
 
