@@ -1,13 +1,8 @@
-from enum import Enum
 from typing import Tuple
 
 import numpy as np
 
 from core.models.population import Individual
-
-class CrossoverType(Enum):
-    OX = 'ox'
-    PMX = 'pmx'
 
 def ordered_crossover(
         parent1: Individual,

@@ -1,5 +1,4 @@
 import time
-import random
 from typing import List, Dict, Any
 import copy
 import numpy as np
@@ -10,7 +9,7 @@ from utils.common import np_to_python, write_to_json
 from utils.generate import generate_initial_population
 from core.evaluation.distance import generate_distance_matrix
 from core.selection.selection_algorithm import tournament_selection, roulette_wheel_selection
-from core.crossover.crossover_alogrithm import ordered_crossover, partial_mapped_crossover, CrossoverType
+from core.crossover.crossover import apply_crossover, CrossoverType
 from core.mutation.mutation import apply_mutation, MutationType
 from core.models.population import Population, Individual
 
@@ -129,37 +128,7 @@ def run(
             print(f'Parents selected: {len(parents)}')
 
         # Perform crossover on the parents to create new offspring `Individuals`
-        offspring: List[Individual] = []
-        random.shuffle(parents) # shuffle the parents to avoid bias
-
-        for i in range(0, len(parents), 2):
-            if i + 1 >= len(parents):
-                # if we have an odd number of parents, we just add the last parent to the offspring
-                offspring.append(parents[i])
-                break
-
-            # Perform crossover
-            if random.randint(0, 100) < chance_of_crossover:
-                if CrossoverType.OX in crossover_type and CrossoverType.PMX in crossover_type:
-                    crossover_type_chance = random.randint(0, 100)
-                    if crossover_type_chance < crossover_type[CrossoverType.OX]:
-                        child1, child2 = ordered_crossover(parents[i], parents[i+1])
-                    else:
-                        child1, child2 = partial_mapped_crossover(parents[i], parents[i+1])
-                elif CrossoverType.OX in crossover_type:
-                    child1, child2 = ordered_crossover(parents[i], parents[i+1])
-                else: # PMX
-                    child1, child2 = partial_mapped_crossover(parents[i], parents[i+1])
-
-                offspring.append(child1)
-                offspring.append(child2)
-            else:
-                # if no crossover is performed, we just add the parents to the offspring
-                offspring.append(parents[i])
-                offspring.append(parents[i+1])
-
-
-
+        offspring = apply_crossover(parents, crossover_type, chance_of_crossover)
         offspring = apply_mutation(offspring, mutation_type, chance_of_mutation, distance_matrix)
 
         # replace the worst individuals with the offspring

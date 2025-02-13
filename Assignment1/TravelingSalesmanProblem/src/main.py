@@ -1,6 +1,7 @@
 from core import genetic_algorithm
-from core.crossover.crossover_alogrithm import CrossoverType
+from core.crossover.crossover import CrossoverType
 from core.mutation.mutation import MutationType
+
 
 genetic_algorithm.run(
     generations=5_000,
@@ -9,7 +10,7 @@ genetic_algorithm.run(
     chance_of_crossover=95,
     chance_of_mutation=15,
     crossover_type={
-        CrossoverType.OX: 100
+        CrossoverType.PMX: 100
     },
     mutation_type={
         MutationType.INVERSION: 25,

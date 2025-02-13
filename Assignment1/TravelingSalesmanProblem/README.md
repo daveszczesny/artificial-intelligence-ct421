@@ -1,6 +1,6 @@
 # Genetic Algorithm for the Traveling Salesman Problem
 
-@Author: Dawid Szczesny  
+@Author: Dawid Szczesny
 @ID: 21300293
 
 ## Overview
@@ -40,6 +40,7 @@ Navigate to `./src/main.py` to customize and optimize your run. The genetic algo
 11. **Mutation Type**: The type(s) of mutation that could occur in the run. Default = `swap: 50, scramble: 25, inversion: 25`
 12. **Write Results**: A boolean value. If set to true, it will write a file output with all the details of the run. Default = `False`
 13. **Plot Graphs**: A boolean value. If set to true, it will plot the paths, distance, and fitness graphs at the end of the run. Default = `False`
+14. **Output File**: The name of the file if **Write Results** is set to true. Default = `results.json`
 
 ## Example Usage
 
@@ -63,13 +64,14 @@ genetic_algorithm.run(
     selection_type='roulette',
     mutation_type={MutationType.SWAP: 40, MutationType.SCRAMBLE: 30, MutationType.INVERSION: 30},
     write_results=True,
-    plot_graphs=True
+    plot_graphs=True,
+    output_file='results.json'
 )
 ```
 
 ## Results
 
-The results of the run will be saved in a JSON file if `write_results` is set to `True`. The file will contain details of the run, including the best individual, time taken, and highlights of the run.
+The results of the run will be saved in a JSON file if `write_results` is set to `True`. The name of the file is controleld by the `output_file` argument. The file will contain details of the run, including the best individual, time taken, and highlights of the run.
 
 ## Plotting
 
